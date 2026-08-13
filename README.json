@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":paperclip: Papers&Codes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-16T03:42:01Z",
+            "owner": "tyui592",
+            "repo": "awesome-precipitation-nowcasting",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":pushpin: Workshop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-16T03:42:01Z",
+            "owner": "tyui592",
+            "repo": "awesome-precipitation-nowcasting",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":computer: Library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-16T03:42:01Z",
+            "owner": "tyui592",
+            "repo": "awesome-precipitation-nowcasting",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":minidisc: Dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-16T03:42:01Z",
+            "owner": "tyui592",
+            "repo": "awesome-precipitation-nowcasting",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":earth_asia: Others",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-16T03:42:01Z",
+            "owner": "tyui592",
+            "repo": "awesome-precipitation-nowcasting",
+            "stars": 195
+          }
+        }
+      ],
+      "title": "Content"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:28.189Z",
+    "original_repository": "tyui592/awesome-precipitation-nowcasting",
+    "original_repository_sha": "324a9b42c09f59053bcbb2b6a09f5f17b81aaa63",
+    "enhanced_repository": "enhansome/enhansome-precipitation-nowcasting",
+    "enhanced_repository_description": null,
+    "title": "awesome-precipitation-nowcasting with stars"
+  }
+}
