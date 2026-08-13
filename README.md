@@ -62,7 +62,7 @@
 
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 577 | 🐛 75 | 🌐 Python | 📅 2026-08-12
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 577 | 🐛 76 | 🌐 Python | 📅 2026-08-13
 
 ## U-Net based Nowcasting
 
@@ -101,7 +101,7 @@
 
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,149 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-10
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,151 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-10
 
 ## MetNet-2
 
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,477 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,482 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -316,7 +316,7 @@
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
 * doc: <https://openstl.readthedocs.io/en/latest/>
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,138 | 🐛 44 | 🌐 Python | 📅 2026-03-01
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,139 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 
 # :minidisc: Dataset
 
