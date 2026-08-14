@@ -62,7 +62,7 @@
 
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 577 | 🐛 76 | 🌐 Python | 📅 2026-08-13
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 577 | 🐛 75 | 🌐 Python | 📅 2026-08-14
 
 ## U-Net based Nowcasting
 
@@ -101,7 +101,7 @@
 
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,151 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-10
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,152 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-10
 
 ## MetNet-2
 
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,482 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,490 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -281,14 +281,14 @@
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
 * doc: <https://arm-doe.github.io/pyart/>
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 596 | 🐛 48 | 🌐 Python | 📅 2026-08-12
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 597 | 🐛 49 | 🌐 Python | 📅 2026-08-12
 
 ## wradlib
 
 **wradlib: An Open Source Library for Weather Radar Data Processing**
 
 * doc: <https://docs.wradlib.org/en/stable/>
-* github: <https://github.com/wradlib/wradlib> ⭐ 315 | 🐛 11 | 🌐 Python | 📅 2026-07-20
+* github: <https://github.com/wradlib/wradlib> ⭐ 315 | 🐛 11 | 🌐 Python | 📅 2026-08-14
 
 ## Cartopy
 
@@ -309,7 +309,7 @@
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
 * doc: <https://earthengine.google.com/>
-* github: <https://github.com/google/earthengine-api> ⭐ 3,386 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-10
+* github: <https://github.com/google/earthengine-api> ⭐ 3,387 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-10
 
 ## OpenSTL
 
@@ -372,7 +372,7 @@
 ## Awesome-Foundation-Models-for-Weather-and-Climate
 
 * intro: A Suvery about foundation models for weather and cliamte data understanding.
-* github: <https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate> ⭐ 294 | 🐛 0 | 📅 2025-02-03
+* github: <https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate> ⭐ 296 | 🐛 0 | 📅 2025-02-03
 
 ## Awesome Large Weather Models
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
