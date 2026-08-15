@@ -101,7 +101,7 @@
 
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,152 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-10
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,153 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-10
 
 ## MetNet-2
 
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,490 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,501 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -281,7 +281,7 @@
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
 * doc: <https://arm-doe.github.io/pyart/>
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 597 | 🐛 49 | 🌐 Python | 📅 2026-08-12
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 597 | 🐛 48 | 🌐 Python | 📅 2026-08-14
 
 ## wradlib
 
@@ -309,7 +309,7 @@
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
 * doc: <https://earthengine.google.com/>
-* github: <https://github.com/google/earthengine-api> ⭐ 3,387 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-10
+* github: <https://github.com/google/earthengine-api> ⭐ 3,388 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-14
 
 ## OpenSTL
 
@@ -360,7 +360,7 @@
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
-* github: <https://github.com/google-research/weatherbench2> ⭐ 630 | 🐛 85 | 🌐 Python | 📅 2026-08-01
+* github: <https://github.com/google-research/weatherbench2> ⭐ 631 | 🐛 85 | 🌐 Python | 📅 2026-08-01
 
 # :earth\_asia: Others
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
