@@ -101,7 +101,7 @@
 
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,153 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-10
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,156 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-10
 
 ## MetNet-2
 
@@ -134,7 +134,7 @@
 
 * intro: NIPS (2022)
 * paper: <https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html>
-* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 466 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
+* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 467 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
 
 ## SimVP
 
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,501 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,535 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -295,7 +295,7 @@
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,614 | 🐛 332 | 🌐 Python | 📅 2026-08-12
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,615 | 🐛 332 | 🌐 Python | 📅 2026-08-12
 
 ## Satflow
 
@@ -309,7 +309,7 @@
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
 * doc: <https://earthengine.google.com/>
-* github: <https://github.com/google/earthengine-api> ⭐ 3,388 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-14
+* github: <https://github.com/google/earthengine-api> ⭐ 3,389 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-14
 
 ## OpenSTL
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
