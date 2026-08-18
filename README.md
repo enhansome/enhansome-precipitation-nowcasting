@@ -62,7 +62,7 @@
 
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 577 | 🐛 75 | 🌐 Python | 📅 2026-08-14
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 577 | 🐛 76 | 🌐 Python | 📅 2026-08-14
 
 ## U-Net based Nowcasting
 
@@ -93,7 +93,7 @@
 
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
-* github: <https://github.com/openclimatefix/metnet> ⭐ 302 | 🐛 37 | 🌐 Python | 📅 2026-08-10
+* github: <https://github.com/openclimatefix/metnet> ⭐ 302 | 🐛 36 | 🌐 Python | 📅 2026-08-17
 
 ## DGMR
 
@@ -101,7 +101,7 @@
 
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,156 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-10
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,157 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
 
 ## MetNet-2
 
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,535 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,545 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -309,14 +309,14 @@
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
 * doc: <https://earthengine.google.com/>
-* github: <https://github.com/google/earthengine-api> ⭐ 3,389 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-14
+* github: <https://github.com/google/earthengine-api> ⭐ 3,390 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-18
 
 ## OpenSTL
 
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
 * doc: <https://openstl.readthedocs.io/en/latest/>
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,139 | 🐛 44 | 🌐 Python | 📅 2026-03-01
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,138 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 
 # :minidisc: Dataset
 
@@ -372,7 +372,7 @@
 ## Awesome-Foundation-Models-for-Weather-and-Climate
 
 * intro: A Suvery about foundation models for weather and cliamte data understanding.
-* github: <https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate> ⭐ 296 | 🐛 0 | 📅 2025-02-03
+* github: <https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate> ⭐ 297 | 🐛 0 | 📅 2025-02-03
 
 ## Awesome Large Weather Models
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
