@@ -93,7 +93,7 @@
 
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
-* github: <https://github.com/openclimatefix/metnet> ⭐ 302 | 🐛 36 | 🌐 Python | 📅 2026-08-17
+* github: <https://github.com/openclimatefix/metnet> ⭐ 303 | 🐛 36 | 🌐 Python | 📅 2026-08-17
 
 ## DGMR
 
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,545 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,558 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -316,7 +316,7 @@
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
 * doc: <https://openstl.readthedocs.io/en/latest/>
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,138 | 🐛 44 | 🌐 Python | 📅 2026-03-01
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,139 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 
 # :minidisc: Dataset
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
