@@ -93,7 +93,7 @@
 
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
-* github: <https://github.com/openclimatefix/metnet> ⭐ 303 | 🐛 36 | 🌐 Python | 📅 2026-08-17
+* github: <https://github.com/openclimatefix/metnet> ⭐ 304 | 🐛 36 | 🌐 Python | 📅 2026-08-17
 
 ## DGMR
 
@@ -101,7 +101,7 @@
 
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,157 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,159 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
 
 ## MetNet-2
 
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,558 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,559 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
