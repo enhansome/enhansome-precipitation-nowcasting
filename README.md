@@ -54,7 +54,7 @@
 
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/1387/2019/>
-* github: <https://github.com/hydrogo/rainymotion> ⭐ 196 | 🐛 5 | 🌐 Python | 📅 2019-10-09
+* github: <https://github.com/hydrogo/rainymotion> ⭐ 197 | 🐛 5 | 🌐 Python | 📅 2019-10-09
 
 ## pySTEPS
 
@@ -93,7 +93,7 @@
 
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
-* github: <https://github.com/openclimatefix/metnet> ⭐ 304 | 🐛 36 | 🌐 Python | 📅 2026-08-17
+* github: <https://github.com/openclimatefix/metnet> ⭐ 304 | 🐛 37 | 🌐 Python | 📅 2026-08-17
 
 ## DGMR
 
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,559 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,572 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -309,7 +309,7 @@
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
 * doc: <https://earthengine.google.com/>
-* github: <https://github.com/google/earthengine-api> ⭐ 3,390 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-18
+* github: <https://github.com/google/earthengine-api> ⭐ 3,392 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-18
 
 ## OpenSTL
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
