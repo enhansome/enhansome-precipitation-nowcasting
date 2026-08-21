@@ -101,7 +101,7 @@
 
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,159 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,157 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
 
 ## MetNet-2
 
@@ -156,7 +156,7 @@
 
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2301.10343>
-* github: <https://github.com/microsoft/ClimaX> ⭐ 709 | 🐛 11 | 🌐 Python | 📅 2023-09-30
+* github: <https://github.com/microsoft/ClimaX> ⭐ 708 | 🐛 11 | 🌐 Python | 📅 2023-09-30
 * blog: <https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/>
 
 ## NowcastNet
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,572 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,577 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -281,7 +281,7 @@
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
 * doc: <https://arm-doe.github.io/pyart/>
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 597 | 🐛 48 | 🌐 Python | 📅 2026-08-14
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 598 | 🐛 48 | 🌐 Python | 📅 2026-08-14
 
 ## wradlib
 
@@ -295,7 +295,7 @@
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,615 | 🐛 332 | 🌐 Python | 📅 2026-08-12
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,614 | 🐛 332 | 🌐 Python | 📅 2026-08-12
 
 ## Satflow
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
