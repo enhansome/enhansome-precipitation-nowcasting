@@ -93,7 +93,7 @@
 
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
-* github: <https://github.com/openclimatefix/metnet> ⭐ 304 | 🐛 37 | 🌐 Python | 📅 2026-08-17
+* github: <https://github.com/openclimatefix/metnet> ⭐ 305 | 🐛 37 | 🌐 Python | 📅 2026-08-17
 
 ## DGMR
 
@@ -101,7 +101,7 @@
 
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,157 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,160 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
 
 ## MetNet-2
 
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,577 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,580 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -281,7 +281,7 @@
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
 * doc: <https://arm-doe.github.io/pyart/>
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 598 | 🐛 48 | 🌐 Python | 📅 2026-08-14
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 600 | 🐛 48 | 🌐 Python | 📅 2026-08-14
 
 ## wradlib
 
@@ -295,7 +295,7 @@
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,614 | 🐛 332 | 🌐 Python | 📅 2026-08-12
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,615 | 🐛 332 | 🌐 Python | 📅 2026-08-12
 
 ## Satflow
 
@@ -309,14 +309,14 @@
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
 * doc: <https://earthengine.google.com/>
-* github: <https://github.com/google/earthengine-api> ⭐ 3,392 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-18
+* github: <https://github.com/google/earthengine-api> ⭐ 3,394 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-18
 
 ## OpenSTL
 
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
 * doc: <https://openstl.readthedocs.io/en/latest/>
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,139 | 🐛 44 | 🌐 Python | 📅 2026-03-01
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,138 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 
 # :minidisc: Dataset
 
@@ -360,7 +360,7 @@
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
-* github: <https://github.com/google-research/weatherbench2> ⭐ 631 | 🐛 85 | 🌐 Python | 📅 2026-08-01
+* github: <https://github.com/google-research/weatherbench2> ⭐ 632 | 🐛 85 | 🌐 Python | 📅 2026-08-01
 
 # :earth\_asia: Others
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
