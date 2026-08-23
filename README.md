@@ -101,7 +101,7 @@
 
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,160 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,163 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
 
 ## MetNet-2
 
@@ -201,7 +201,7 @@
 
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,580 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,581 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -309,7 +309,7 @@
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
 * doc: <https://earthengine.google.com/>
-* github: <https://github.com/google/earthengine-api> ⭐ 3,394 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-18
+* github: <https://github.com/google/earthengine-api> ⭐ 3,397 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-18
 
 ## OpenSTL
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
