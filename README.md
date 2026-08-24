@@ -30,9 +30,9 @@
 
 **Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model**
 
+* github: <https://github.com/sxjscience/HKO-7> ⭐ 429 | 🐛 7 | 🌐 Python | 📅 2022-09-12
 * intro: NIPS (2017)
 * paper: <https://arxiv.org/abs/1706.03458>
-* github: <https://github.com/sxjscience/HKO-7> ⭐ 429 | 🐛 7 | 🌐 Python | 📅 2022-09-12
 
 ## CNN based method
 
@@ -52,17 +52,17 @@
 
 **Optical flow models as an open benchmark for radar-based precipitation nowcasting (rainymotion v0.1)**
 
+* github: <https://github.com/hydrogo/rainymotion> ⭐ 197 | 🐛 5 | 🌐 Python | 📅 2019-10-09
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/1387/2019/>
-* github: <https://github.com/hydrogo/rainymotion> ⭐ 197 | 🐛 5 | 🌐 Python | 📅 2019-10-09
 
 ## pySTEPS
 
 **Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
 
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 577 | 🐛 76 | 🌐 Python | 📅 2026-08-14
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 577 | 🐛 76 | 🌐 Python | 📅 2026-08-14
 
 ## U-Net based Nowcasting
 
@@ -83,25 +83,25 @@
 
 **RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting**
 
+* github: <https://github.com/hydrogo/rainnet> ⭐ 151 | 🐛 6 | 🌐 Python | 📅 2021-06-01
 * intro: Geoscientific Model Development (2020)
 * paper: <https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020-discussion.html>
-* github: <https://github.com/hydrogo/rainnet> ⭐ 151 | 🐛 6 | 🌐 Python | 📅 2021-06-01
 
 ## MetNet
 
 **MetNet: A Neural Weather Model for Precipitation Forecasting**
 
+* github: <https://github.com/openclimatefix/metnet> ⭐ 305 | 🐛 37 | 🌐 Python | 📅 2026-08-17
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
-* github: <https://github.com/openclimatefix/metnet> ⭐ 305 | 🐛 37 | 🌐 Python | 📅 2026-08-17
 
 ## DGMR
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,166 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,163 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-17
 
 ## MetNet-2
 
@@ -117,9 +117,9 @@
 
 **Effective Training Strategies for Deep-learning-based Precipitation Nowcasting and Estimation**
 
+* github: <https://github.com/jihoonko/DeepRaNE> ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-02-04
 * intro: Computers & Geosciences (2022)
 * paper: <https://www.sciencedirect.com/science/article/pii/S009830042200036X>
-* github: <https://github.com/jihoonko/DeepRaNE> ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-02-04
 
 ## ASOC
 
@@ -132,9 +132,9 @@
 
 **Earthformer: Exploring Space-Time Transformers for Earth System Forecasting**
 
+* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 467 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
 * intro: NIPS (2022)
 * paper: <https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html>
-* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 467 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
 
 ## SimVP
 
@@ -154,9 +154,9 @@
 
 **ClimaX: A foundation model for weather and climate**
 
+* github: <https://github.com/microsoft/ClimaX> ⭐ 709 | 🐛 12 | 🌐 Python | 📅 2023-09-30
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2301.10343>
-* github: <https://github.com/microsoft/ClimaX> ⭐ 708 | 🐛 11 | 🌐 Python | 📅 2023-09-30
 * blog: <https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/>
 
 ## NowcastNet
@@ -177,9 +177,9 @@
 
 **Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification**
 
+* github: <https://github.com/MeteoSwiss/ldcast> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2023-07-10
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2304.12891>
-* github: <https://github.com/MeteoSwiss/ldcast> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2023-07-10
 
 ## PreDiff
 
@@ -199,9 +199,9 @@
 
 **Learning skillful medium-range global weather forecasting**
 
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,584 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,581 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 
 ## PAUNet
 
@@ -280,43 +280,43 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* doc: <https://arm-doe.github.io/pyart/>
 * github: <https://github.com/ARM-DOE/pyart> ⭐ 600 | 🐛 48 | 🌐 Python | 📅 2026-08-14
+* doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
 
 **wradlib: An Open Source Library for Weather Radar Data Processing**
 
-* doc: <https://docs.wradlib.org/en/stable/>
 * github: <https://github.com/wradlib/wradlib> ⭐ 315 | 🐛 11 | 🌐 Python | 📅 2026-08-14
+* doc: <https://docs.wradlib.org/en/stable/>
 
 ## Cartopy
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* doc: <https://scitools.org.uk/cartopy/docs/latest/>
 * github: <https://github.com/SciTools/cartopy> ⭐ 1,615 | 🐛 332 | 🌐 Python | 📅 2026-08-12
+* doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
 
 **Satellite Optical Flow with machine learning models**
 
-* doc: <https://satflow.readthedocs.io/en/stable/>
 * github: <https://github.com/openclimatefix/satflow> ⚠️ Archived
+* doc: <https://satflow.readthedocs.io/en/stable/>
 
 ## Google Earth Engine API
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* doc: <https://earthengine.google.com/>
 * github: <https://github.com/google/earthengine-api> ⭐ 3,397 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-18
+* doc: <https://earthengine.google.com/>
 
 ## OpenSTL
 
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,137 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 * doc: <https://openstl.readthedocs.io/en/latest/>
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,138 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 
 # :minidisc: Dataset
 
@@ -324,43 +324,43 @@
 
 **EarthNet2021: A large-scale dataset and challenge for Earth surface forecasting as a guided video prediction task.**
 
+* github: <https://github.com/earthnet2021/earthnet-model-intercomparison-suite> ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2025-08-22
 * intro: CVPR Workshop EarthVision (2021)
 * paper: <https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Requena-Mesa_EarthNet2021_A_Large-Scale_Dataset_and_Challenge_for_Earth_Surface_Forecasting_CVPRW_2021_paper.html>
 * doc: <https://www.earthnet.tech/>
-* github: <https://github.com/earthnet2021/earthnet-model-intercomparison-suite> ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2025-08-22
 
 ## RainBench
 
 **RainBench: Towards Global Precipitation Forecasting from Satellite Imagery**
 
+* github: <https://github.com/FrontierDevelopmentLab/PyRain> ⭐ 40 | 🐛 6 | 🌐 Python | 📅 2021-02-18
 * intro: AAAI (2021)
 * paper: <https://ojs.aaai.org/index.php/AAAI/article/view/17749>
-* github: <https://github.com/FrontierDevelopmentLab/PyRain> ⭐ 40 | 🐛 6 | 🌐 Python | 📅 2021-02-18
 
 ## KoMet
 
 **Benchmark Dataset for Precipitation Forecasting by Post-Processing the Numerical Weather Prediction.**
 
+* github: <https://github.com/osilab-kaist/KoMet-Benchmark-Dataset> ⭐ 27 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-08-29
 * intro: arXiv (2022)
 * paper: <https://arxiv.org/abs/2206.15241>
-* github: <https://github.com/osilab-kaist/KoMet-Benchmark-Dataset> ⭐ 27 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-08-29
 
 ## PostRainBench
 
 **POSTRAINBENCH: A COMPREHENSIVE BENCHMARK AND A NEW MODEL FOR PRECIPITATION FORECASTING**
 
+* github: <https://github.com/yyyujintang/PostRainBench> ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2024-05-15
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2310.02676>
-* github: <https://github.com/yyyujintang/PostRainBench> ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2024-05-15
 
 ## WeatherBench 2
 
 **A benchmark for the next generation of data-driven global weather models**
 
+* github: <https://github.com/google-research/weatherbench2> ⭐ 633 | 🐛 85 | 🌐 Python | 📅 2026-08-01
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
-* github: <https://github.com/google-research/weatherbench2> ⭐ 632 | 🐛 85 | 🌐 Python | 📅 2026-08-01
 
 # :earth\_asia: Others
 
@@ -371,14 +371,14 @@
 
 ## Awesome-Foundation-Models-for-Weather-and-Climate
 
+* github: <https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate> ⭐ 298 | 🐛 0 | 📅 2025-02-03
 * intro: A Suvery about foundation models for weather and cliamte data understanding.
-* github: <https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate> ⭐ 297 | 🐛 0 | 📅 2025-02-03
 
 ## Awesome Large Weather Models
 
+* github: <https://github.com/jaychempan/Awesome-LWMs> ⭐ 374 | 🐛 1 | 📅 2025-06-23
 * intro: A Collection of Awesome Large Weather Models (LWMs) | AI for Earth (AI4Earth) | AI for Science (AI4Science)
-* github: <https://github.com/jaychempan/Awesome-LWMs> ⭐ 373 | 🐛 1 | 📅 2025-06-23
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

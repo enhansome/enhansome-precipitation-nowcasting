@@ -80,10 +80,562 @@
         }
       ],
       "title": "Content"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/sxjscience/HKO-7",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109751606,
+                "language": "Python",
+                "last_commit": "2022-09-12T23:36:35Z",
+                "owner": "sxjscience",
+                "repo": "HKO-7",
+                "stars": 429
+              }
+            }
+          ],
+          "description": "Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model",
+          "node_type": "group",
+          "title": "TrajGRU"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/hydrogo/rainymotion",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131267949,
+                "language": "Python",
+                "last_commit": "2019-10-09T12:47:44Z",
+                "owner": "hydrogo",
+                "repo": "rainymotion",
+                "stars": 197
+              }
+            }
+          ],
+          "description": "Optical flow models as an open benchmark for radar-based precipitation nowcasting (rainymotion v0.1)",
+          "node_type": "group",
+          "title": "rainymotion"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/pySTEPS/pysteps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140263418,
+                "language": "Python",
+                "last_commit": "2026-08-14T10:15:56Z",
+                "owner": "pySTEPS",
+                "repo": "pysteps",
+                "stars": 577
+              }
+            }
+          ],
+          "description": "Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)",
+          "node_type": "group",
+          "title": "pySTEPS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/hydrogo/rainnet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236913315,
+                "language": "Python",
+                "last_commit": "2021-06-01T10:49:16Z",
+                "owner": "hydrogo",
+                "repo": "rainnet",
+                "stars": 151
+              }
+            }
+          ],
+          "description": "RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting",
+          "node_type": "group",
+          "title": "RainNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/openclimatefix/metnet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402393162,
+                "language": "Python",
+                "last_commit": "2026-08-17T17:54:42Z",
+                "owner": "openclimatefix",
+                "repo": "metnet",
+                "stars": 305
+              }
+            }
+          ],
+          "description": "MetNet: A Neural Weather Model for Precipitation Forecasting",
+          "node_type": "group",
+          "title": "MetNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting",
+              "description": ", https://github.com/openclimatefix/skillful_nowcasting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165826654,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-17T13:51:27Z",
+                "owner": "google-deepmind",
+                "repo": "deepmind-research",
+                "stars": 15166
+              }
+            }
+          ],
+          "description": "Skilful precipitation nowcasting using deep generative models of radar",
+          "node_type": "group",
+          "title": "DGMR"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/jihoonko/DeepRaNE",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378054735,
+                "language": "Python",
+                "last_commit": "2022-02-04T14:07:41Z",
+                "owner": "jihoonko",
+                "repo": "DeepRaNE",
+                "stars": 14
+              }
+            }
+          ],
+          "description": "Effective Training Strategies for Deep-learning-based Precipitation Nowcasting and Estimation",
+          "node_type": "group",
+          "title": "DeepRaNE"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/amazon-science/earth-forecasting-transformer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 535872974,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-07-16T05:55:00Z",
+                "owner": "amazon-science",
+                "repo": "earth-forecasting-transformer",
+                "stars": 467
+              }
+            }
+          ],
+          "description": "Earthformer: Exploring Space-Time Transformers for Earth System Forecasting",
+          "node_type": "group",
+          "title": "Earthformer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/microsoft/ClimaX",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575965997,
+                "language": "Python",
+                "last_commit": "2023-09-30T17:02:35Z",
+                "owner": "microsoft",
+                "repo": "ClimaX",
+                "stars": 709
+              }
+            }
+          ],
+          "description": "ClimaX: A foundation model for weather and climate",
+          "node_type": "group",
+          "title": "ClimaX"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/MeteoSwiss/ldcast",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620812225,
+                "language": "Python",
+                "last_commit": "2023-07-10T14:33:38Z",
+                "owner": "MeteoSwiss",
+                "repo": "ldcast",
+                "stars": 146
+              }
+            }
+          ],
+          "description": "Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification",
+          "node_type": "group",
+          "title": "LDCast"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/google-deepmind/graphcast",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666376652,
+                "language": "Python",
+                "last_commit": "2026-08-11T12:29:00Z",
+                "owner": "google-deepmind",
+                "repo": "weathernext",
+                "stars": 7584
+              }
+            }
+          ],
+          "description": "Learning skillful medium-range global weather forecasting",
+          "node_type": "group",
+          "title": "GraphCast"
+        }
+      ],
+      "title": ":paperclip: Papers&Codes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/ARM-DOE/pyart",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6248645,
+                "language": "Python",
+                "last_commit": "2026-08-14T20:51:50Z",
+                "owner": "ARM-DOE",
+                "repo": "pyart",
+                "stars": 600
+              }
+            }
+          ],
+          "description": "The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.",
+          "node_type": "group",
+          "title": "Py-ART"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/wradlib/wradlib",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52089638,
+                "language": "Python",
+                "last_commit": "2026-08-14T09:25:20Z",
+                "owner": "wradlib",
+                "repo": "wradlib",
+                "stars": 315
+              }
+            }
+          ],
+          "description": "wradlib: An Open Source Library for Weather Radar Data Processing",
+          "node_type": "group",
+          "title": "wradlib"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/SciTools/cartopy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5282596,
+                "language": "Python",
+                "last_commit": "2026-08-12T00:03:16Z",
+                "owner": "SciTools",
+                "repo": "cartopy",
+                "stars": 1615
+              }
+            }
+          ],
+          "description": "Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.",
+          "node_type": "group",
+          "title": "Cartopy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/openclimatefix/satflow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 373518122,
+                "language": "Python",
+                "last_commit": "2023-11-13T17:43:40Z",
+                "owner": "openclimatefix-archives",
+                "repo": "satflow",
+                "stars": 64
+              }
+            }
+          ],
+          "description": "Satellite Optical Flow with machine learning models",
+          "node_type": "group",
+          "title": "Satflow"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/google/earthengine-api",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34359697,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T21:51:24Z",
+                "owner": "google",
+                "repo": "earthengine-api",
+                "stars": 3397
+              }
+            }
+          ],
+          "description": "Python and JavaScript bindings for calling the Earth Engine API.",
+          "node_type": "group",
+          "title": "Google Earth Engine API"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/chengtan9907/OpenSTL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518510950,
+                "language": "Python",
+                "last_commit": "2026-03-01T17:25:49Z",
+                "owner": "chengtan9907",
+                "repo": "OpenSTL",
+                "stars": 1137
+              }
+            }
+          ],
+          "description": "OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning",
+          "node_type": "group",
+          "title": "OpenSTL"
+        }
+      ],
+      "title": ":computer: Library"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/earthnet2021/earthnet-model-intercomparison-suite",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308385392,
+                "language": "Python",
+                "last_commit": "2025-08-22T08:52:05Z",
+                "owner": "earthnet2021",
+                "repo": "earthnet-model-intercomparison-suite",
+                "stars": 41
+              }
+            }
+          ],
+          "description": "EarthNet2021: A large-scale dataset and challenge for Earth surface forecasting as a guided video prediction task.",
+          "node_type": "group",
+          "title": "EarthNet2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/FrontierDevelopmentLab/PyRain",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287272839,
+                "language": "Python",
+                "last_commit": "2021-02-18T08:55:09Z",
+                "owner": "FrontierDevelopmentLab",
+                "repo": "PyRain",
+                "stars": 40
+              }
+            }
+          ],
+          "description": "RainBench: Towards Global Precipitation Forecasting from Satellite Imagery",
+          "node_type": "group",
+          "title": "RainBench"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/osilab-kaist/KoMet-Benchmark-Dataset",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 500690751,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-08-29T05:48:43Z",
+                "owner": "osilab-kaist",
+                "repo": "KoMet-Benchmark-Dataset",
+                "stars": 27
+              }
+            }
+          ],
+          "description": "Benchmark Dataset for Precipitation Forecasting by Post-Processing the Numerical Weather Prediction.",
+          "node_type": "group",
+          "title": "KoMet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/yyyujintang/PostRainBench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 702381236,
+                "language": "Python",
+                "last_commit": "2024-05-15T14:39:18Z",
+                "owner": "yyyujintang",
+                "repo": "PostRainBench",
+                "stars": 29
+              }
+            }
+          ],
+          "description": "POSTRAINBENCH: A COMPREHENSIVE BENCHMARK AND A NEW MODEL FOR PRECIPITATION FORECASTING",
+          "node_type": "group",
+          "title": "PostRainBench"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/google-research/weatherbench2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605966592,
+                "language": "Python",
+                "last_commit": "2026-08-01T21:36:12Z",
+                "owner": "google-research",
+                "repo": "weatherbench2",
+                "stars": 633
+              }
+            }
+          ],
+          "description": "A benchmark for the next generation of data-driven global weather models",
+          "node_type": "group",
+          "title": "WeatherBench 2"
+        }
+      ],
+      "title": ":minidisc: Dataset"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 717931365,
+                "language": null,
+                "last_commit": "2025-02-03T03:03:04Z",
+                "owner": "shengchaochen82",
+                "repo": "Awesome-Foundation-Models-for-Weather-and-Climate",
+                "stars": 298
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Awesome-Foundation-Models-for-Weather-and-Climate"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/jaychempan/Awesome-LWMs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728760514,
+                "language": null,
+                "last_commit": "2025-06-23T15:14:49Z",
+                "owner": "jaychempan",
+                "repo": "Awesome-LWMs",
+                "stars": 374
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Awesome Large Weather Models"
+        }
+      ],
+      "title": ":earth_asia: Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:55:08.325Z",
+    "last_updated": "2026-08-24T14:33:02.485Z",
     "original_repository": "tyui592/awesome-precipitation-nowcasting",
     "original_repository_id": 491717347,
     "original_repository_sha": "324a9b42c09f59053bcbb2b6a09f5f17b81aaa63",
