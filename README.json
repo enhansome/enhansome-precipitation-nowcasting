@@ -183,7 +183,7 @@
                 "archived": false,
                 "id": 402393162,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:44:54Z",
+                "last_commit": "2026-08-25T11:26:32Z",
                 "owner": "openclimatefix",
                 "repo": "metnet",
                 "stars": 305
@@ -208,7 +208,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15167
+                "stars": 15168
               }
             }
           ],
@@ -318,7 +318,7 @@
                 "last_commit": "2026-08-11T12:29:00Z",
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7587
+                "stars": 7588
               }
             }
           ],
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:53.335Z",
+    "last_updated": "2026-08-25T16:17:32.473Z",
     "original_repository": "tyui592/awesome-precipitation-nowcasting",
     "original_repository_id": 491717347,
     "original_repository_sha": "324a9b42c09f59053bcbb2b6a09f5f17b81aaa63",
