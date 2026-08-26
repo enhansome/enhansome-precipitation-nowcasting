@@ -60,7 +60,7 @@
 
 **Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
 
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 577 | 🐛 76 | 🌐 Python | 📅 2026-08-14
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 578 | 🐛 76 | 🌐 Python | 📅 2026-08-14
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,588 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,593 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -280,21 +280,21 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 600 | 🐛 48 | 🌐 Python | 📅 2026-08-14
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 600 | 🐛 49 | 🌐 Python | 📅 2026-08-14
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
 
 **wradlib: An Open Source Library for Weather Radar Data Processing**
 
-* github: <https://github.com/wradlib/wradlib> ⭐ 316 | 🐛 11 | 🌐 Python | 📅 2026-08-14
+* github: <https://github.com/wradlib/wradlib> ⭐ 317 | 🐛 11 | 🌐 Python | 📅 2026-08-14
 * doc: <https://docs.wradlib.org/en/stable/>
 
 ## Cartopy
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,615 | 🐛 332 | 🌐 Python | 📅 2026-08-12
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,615 | 🐛 333 | 🌐 Python | 📅 2026-08-12
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,398 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-24
+* github: <https://github.com/google/earthengine-api> ⭐ 3,399 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-24
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
