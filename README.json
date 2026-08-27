@@ -208,7 +208,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15168
+                "stars": 15170
               }
             }
           ],
@@ -318,7 +318,7 @@
                 "last_commit": "2026-08-11T12:29:00Z",
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7593
+                "stars": 7599
               }
             }
           ],
@@ -387,7 +387,7 @@
                 "archived": false,
                 "id": 5282596,
                 "language": "Python",
-                "last_commit": "2026-08-12T00:03:16Z",
+                "last_commit": "2026-08-27T05:18:24Z",
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1615
@@ -635,9 +635,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:37:17.510Z",
-    "original_repository": "tyui592/awesome-precipitation-nowcasting",
-    "original_repository_id": 491717347,
+    "last_updated": "2026-08-27T11:56:24.293Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 491717347,
+      "language": null,
+      "last_commit": "2024-12-16T03:42:01Z",
+      "owner": "tyui592",
+      "repo": "awesome-precipitation-nowcasting",
+      "stars": 195
+    },
     "original_repository_sha": "324a9b42c09f59053bcbb2b6a09f5f17b81aaa63",
     "enhanced_repository": "enhansome/enhansome-precipitation-nowcasting",
     "enhanced_repository_description": null,
