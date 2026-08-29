@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Precipitation Nowcasting papers and related resources.",
+            "homepage": null,
             "id": 491717347,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-16T03:42:01Z",
+            "open_issues": 2,
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "awesome-list",
+              "deep-learning",
+              "machine-learning",
+              "nowcasting",
+              "precipitation-nowcasting",
+              "weather-forecast"
+            ]
           },
           "first_seen": "2026-08-29T00:05:54.875Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Precipitation Nowcasting papers and related resources.",
+            "homepage": null,
             "id": 491717347,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-16T03:42:01Z",
+            "open_issues": 2,
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "awesome-list",
+              "deep-learning",
+              "machine-learning",
+              "nowcasting",
+              "precipitation-nowcasting",
+              "weather-forecast"
+            ]
           },
           "first_seen": "2026-08-29T00:05:54.875Z"
         },
@@ -42,12 +66,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Precipitation Nowcasting papers and related resources.",
+            "homepage": null,
             "id": 491717347,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-16T03:42:01Z",
+            "open_issues": 2,
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "awesome-list",
+              "deep-learning",
+              "machine-learning",
+              "nowcasting",
+              "precipitation-nowcasting",
+              "weather-forecast"
+            ]
           },
           "first_seen": "2026-08-29T00:05:54.875Z"
         },
@@ -58,12 +94,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Precipitation Nowcasting papers and related resources.",
+            "homepage": null,
             "id": 491717347,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-16T03:42:01Z",
+            "open_issues": 2,
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "awesome-list",
+              "deep-learning",
+              "machine-learning",
+              "nowcasting",
+              "precipitation-nowcasting",
+              "weather-forecast"
+            ]
           },
           "first_seen": "2026-08-29T00:05:54.875Z"
         },
@@ -74,12 +122,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Precipitation Nowcasting papers and related resources.",
+            "homepage": null,
             "id": 491717347,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-16T03:42:01Z",
+            "open_issues": 2,
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "awesome-list",
+              "deep-learning",
+              "machine-learning",
+              "nowcasting",
+              "precipitation-nowcasting",
+              "weather-forecast"
+            ]
           },
           "first_seen": "2026-08-29T00:05:54.875Z"
         }
@@ -98,12 +158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code of paper \"[NIPS2017] Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model\"",
+                "homepage": null,
                 "id": 109751606,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-12T23:36:35Z",
+                "open_issues": 7,
                 "owner": "sxjscience",
                 "repo": "HKO-7",
-                "stars": 430
+                "stars": 430,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -121,12 +186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for radar-based precipitation nowcasting based on optical flow techniques",
+                "homepage": null,
                 "id": 131267949,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-10-09T12:47:44Z",
+                "open_issues": 5,
                 "owner": "hydrogo",
                 "repo": "rainymotion",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -144,12 +214,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python framework for short-term ensemble prediction systems.",
+                "homepage": "https://pysteps.readthedocs.io",
                 "id": 140263418,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-14T10:15:56Z",
+                "open_issues": 76,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
-                "stars": 579
+                "stars": 579,
+                "topics": [
+                  "advection",
+                  "ensemble-prediction",
+                  "forecast-verification",
+                  "hydrology",
+                  "nowcasting",
+                  "optical-flow",
+                  "precipitation",
+                  "rainfall",
+                  "rainfall-prediction",
+                  "stochastic-processes",
+                  "weather",
+                  "weather-radar"
+                ]
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -167,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RainNet: a convolutional neural network for radar-based precipitation nowcasting",
+                "homepage": null,
                 "id": 236913315,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-01T10:49:16Z",
+                "open_issues": 6,
                 "owner": "hydrogo",
                 "repo": "rainnet",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -190,12 +283,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch Implementation of Google Research's MetNet and MetNet-2",
+                "homepage": null,
                 "id": 402393162,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T11:26:32Z",
+                "open_issues": 35,
                 "owner": "openclimatefix",
                 "repo": "metnet",
-                "stars": 305
+                "stars": 305,
+                "topics": [
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -213,12 +313,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+                "homepage": null,
                 "id": 165826654,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-17T13:51:27Z",
+                "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15172
+                "stars": 15173,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -236,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 378054735,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-02-04T14:07:41Z",
+                "open_issues": 0,
                 "owner": "jihoonko",
                 "repo": "DeepRaNE",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -259,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of Earthformer",
+                "homepage": null,
                 "id": 535872974,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-16T05:55:00Z",
+                "open_issues": 17,
                 "owner": "amazon-science",
                 "repo": "earth-forecasting-transformer",
-                "stars": 467
+                "stars": 467,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -282,12 +397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Foundation model for weather & climate",
+                "homepage": "https://microsoft.github.io/ClimaX/",
                 "id": 575965997,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-30T17:02:35Z",
+                "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "ClimaX",
-                "stars": 708
+                "stars": 708,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -305,12 +425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Latent diffusion for generative precipitation nowcasting",
+                "homepage": null,
                 "id": 620812225,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-10T14:33:38Z",
+                "open_issues": 8,
                 "owner": "MeteoSwiss",
                 "repo": "ldcast",
-                "stars": 146
+                "stars": 146,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -328,12 +453,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 666376652,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T12:29:00Z",
+                "open_issues": 77,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7605
+                "stars": 7606,
+                "topics": [
+                  "weather",
+                  "weather-forecast"
+                ]
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -357,12 +490,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data. ",
+                "homepage": "https://arm-doe.github.io/pyart/",
                 "id": 6248645,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:38:36Z",
+                "open_issues": 49,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
-                "stars": 600
+                "stars": 600,
+                "topics": [
+                  "data-visualization",
+                  "pyart",
+                  "python",
+                  "radar-processing",
+                  "weather-radars"
+                ]
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -380,12 +524,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "weather radar data processing - python package",
+                "homepage": "https://wradlib.org",
                 "id": 52089638,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T09:25:20Z",
+                "open_issues": 11,
                 "owner": "wradlib",
                 "repo": "wradlib",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "hacktoberfest",
+                  "hdfs",
+                  "netcdf4",
+                  "python",
+                  "radar",
+                  "rainbow",
+                  "sigmet",
+                  "weather",
+                  "wradlib",
+                  "xarray"
+                ]
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -403,12 +563,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cartopy - a cartographic python library with matplotlib support",
+                "homepage": "https://cartopy.readthedocs.io/",
                 "id": 5282596,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T15:52:40Z",
+                "open_issues": 327,
                 "owner": "SciTools",
                 "repo": "cartopy",
-                "stars": 1615
+                "stars": 1615,
+                "topics": [
+                  "cartopy",
+                  "geometry",
+                  "maps",
+                  "matplotlib",
+                  "projections",
+                  "python",
+                  "spatial"
+                ]
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -426,12 +599,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Satellite Optical Flow with machine learning models",
+                "homepage": "https://satflow.readthedocs.io/en/stable/",
                 "id": 373518122,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-13T17:43:40Z",
+                "open_issues": 34,
                 "owner": "openclimatefix-archives",
                 "repo": "satflow",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "nowcasting"
+                ]
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -449,12 +629,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python and JavaScript bindings for calling the Earth Engine API.",
+                "homepage": null,
                 "id": 34359697,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T21:58:26Z",
+                "open_issues": 21,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3403
+                "stars": 3403,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -472,12 +657,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning",
+                "homepage": "https://openstl.readthedocs.io/en/latest/",
                 "id": 518510950,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-01T17:25:49Z",
+                "open_issues": 44,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1137
+                "stars": 1137,
+                "topics": [
+                  "artificial-intelligence",
+                  "attention-mechanism",
+                  "awesome-list",
+                  "awesome-lists",
+                  "benchmark",
+                  "computer-vision",
+                  "deep-learning",
+                  "mlp",
+                  "predictive-learning",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "transformer",
+                  "video-prediction",
+                  "weather-forecast"
+                ]
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -501,12 +706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 308385392,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-22T08:52:05Z",
+                "open_issues": 1,
                 "owner": "earthnet2021",
                 "repo": "earthnet-model-intercomparison-suite",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -524,12 +734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 287272839,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-18T08:55:09Z",
+                "open_issues": 6,
                 "owner": "FrontierDevelopmentLab",
                 "repo": "PyRain",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -547,12 +762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500690751,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-08-29T05:48:43Z",
+                "open_issues": 2,
                 "owner": "osilab-kaist",
                 "repo": "KoMet-Benchmark-Dataset",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -570,12 +790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch Code for ICLR24 Workshop Paper: PostRainBench",
+                "homepage": "https://arxiv.org/abs/2310.02676",
                 "id": 702381236,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-15T14:39:18Z",
+                "open_issues": 1,
                 "owner": "yyyujintang",
                 "repo": "PostRainBench",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -593,12 +818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A benchmark for the next generation of data-driven global weather models.",
+                "homepage": "https://weatherbench2.readthedocs.io",
                 "id": 605966592,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T21:36:12Z",
+                "open_issues": 85,
                 "owner": "google-research",
                 "repo": "weatherbench2",
-                "stars": 632
+                "stars": 632,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -622,12 +852,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehesive survey about foundation models for weather and cliamte data understanding.",
+                "homepage": null,
                 "id": 717931365,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-02-03T03:03:04Z",
+                "open_issues": 0,
                 "owner": "shengchaochen82",
                 "repo": "Awesome-Foundation-Models-for-Weather-and-Climate",
-                "stars": 298
+                "stars": 298,
+                "topics": [
+                  "ai4earth",
+                  "ai4science",
+                  "climate",
+                  "climate-change",
+                  "dataset",
+                  "deep-learning",
+                  "foundation-models",
+                  "large-language-models",
+                  "largemodel",
+                  "machine-learning",
+                  "representation-learning",
+                  "self-supervised-learning",
+                  "semi-supervised-learning",
+                  "spatial-temporal-data",
+                  "spatial-temporal-forecasting",
+                  "time-series-analysis",
+                  "weather",
+                  "weather-and-climate-understanding",
+                  "weather-forecating",
+                  "weather-forecsating"
+                ]
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -645,12 +901,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Collection of Awesome Large Weather Models (LWMs) |  AI for Earth (AI4Earth) | AI for Science (AI4Science)",
+                "homepage": null,
                 "id": 728760514,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-23T15:14:49Z",
+                "open_issues": 1,
                 "owner": "jaychempan",
                 "repo": "Awesome-LWMs",
-                "stars": 375
+                "stars": 375,
+                "topics": [
+                  "ai-for-earth",
+                  "ai-for-science",
+                  "atmosphere-model",
+                  "foundation-model",
+                  "large-weather-models",
+                  "meteorology",
+                  "nowcasting",
+                  "ocean-modelling",
+                  "oceanography",
+                  "weather",
+                  "weather-forecast"
+                ]
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
             }
@@ -664,15 +937,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:05:54.875Z",
+    "last_updated": "2026-08-29T04:56:08.593Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of Precipitation Nowcasting papers and related resources.",
+      "homepage": null,
       "id": 491717347,
       "language": null,
+      "license": null,
       "last_commit": "2024-12-16T03:42:01Z",
+      "open_issues": 2,
       "owner": "tyui592",
       "repo": "awesome-precipitation-nowcasting",
-      "stars": 196
+      "stars": 196,
+      "topics": [
+        "awesome-list",
+        "deep-learning",
+        "machine-learning",
+        "nowcasting",
+        "precipitation-nowcasting",
+        "weather-forecast"
+      ]
     },
     "original_repository_sha": "324a9b42c09f59053bcbb2b6a09f5f17b81aaa63",
     "enhanced_repository": "enhansome/enhansome-precipitation-nowcasting",
