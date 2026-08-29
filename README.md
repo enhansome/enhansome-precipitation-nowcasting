@@ -2,11 +2,11 @@
 
 ### Content
 
-* [:paperclip: Papers\&Codes](https://github.com/tyui592/awesome-precipitation-nowcasting#paperclip-paperscodes) ⭐ 195 | 🐛 2 | 📅 2024-12-16
-* [:pushpin: Workshop](https://github.com/tyui592/awesome-precipitation-nowcasting#pushpin-workshop) ⭐ 195 | 🐛 2 | 📅 2024-12-16
-* [:computer: Library](https://github.com/tyui592/awesome-precipitation-nowcasting#computer-library) ⭐ 195 | 🐛 2 | 📅 2024-12-16
-* [:minidisc: Dataset](https://github.com/tyui592/awesome-precipitation-nowcasting#minidisc-dataset) ⭐ 195 | 🐛 2 | 📅 2024-12-16
-* [:earth\_asia: Others](https://github.com/tyui592/awesome-precipitation-nowcasting#earth_asia-Others) ⭐ 195 | 🐛 2 | 📅 2024-12-16
+* [:paperclip: Papers\&Codes](https://github.com/tyui592/awesome-precipitation-nowcasting#paperclip-paperscodes) ⭐ 196 | 🐛 2 | 📅 2024-12-16
+* [:pushpin: Workshop](https://github.com/tyui592/awesome-precipitation-nowcasting#pushpin-workshop) ⭐ 196 | 🐛 2 | 📅 2024-12-16
+* [:computer: Library](https://github.com/tyui592/awesome-precipitation-nowcasting#computer-library) ⭐ 196 | 🐛 2 | 📅 2024-12-16
+* [:minidisc: Dataset](https://github.com/tyui592/awesome-precipitation-nowcasting#minidisc-dataset) ⭐ 196 | 🐛 2 | 📅 2024-12-16
+* [:earth\_asia: Others](https://github.com/tyui592/awesome-precipitation-nowcasting#earth_asia-Others) ⭐ 196 | 🐛 2 | 📅 2024-12-16
 
 *If I missed any of your work or if there's a need for an update in this review, please email me or just pull a request here. Thank you!*
 
@@ -30,7 +30,7 @@
 
 **Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model**
 
-* github: <https://github.com/sxjscience/HKO-7> ⭐ 429 | 🐛 7 | 🌐 Python | 📅 2022-09-12
+* github: <https://github.com/sxjscience/HKO-7> ⭐ 430 | 🐛 7 | 🌐 Python | 📅 2022-09-12
 * intro: NIPS (2017)
 * paper: <https://arxiv.org/abs/1706.03458>
 
@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,170 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 295 | 🐛 26 | 🌐 Python | 📅 2026-08-24
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,172 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 296 | 🐛 26 | 🌐 Python | 📅 2026-08-24
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -154,7 +154,7 @@
 
 **ClimaX: A foundation model for weather and climate**
 
-* github: <https://github.com/microsoft/ClimaX> ⭐ 709 | 🐛 12 | 🌐 Python | 📅 2023-09-30
+* github: <https://github.com/microsoft/ClimaX> ⭐ 708 | 🐛 12 | 🌐 Python | 📅 2023-09-30
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2301.10343>
 * blog: <https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/>
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,601 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,605 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -280,7 +280,7 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 600 | 🐛 49 | 🌐 Python | 📅 2026-08-27
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 600 | 🐛 49 | 🌐 Python | 📅 2026-08-28
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,400 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-24
+* github: <https://github.com/google/earthengine-api> ⭐ 3,403 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-24
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -357,7 +357,7 @@
 
 **A benchmark for the next generation of data-driven global weather models**
 
-* github: <https://github.com/google-research/weatherbench2> ⭐ 633 | 🐛 85 | 🌐 Python | 📅 2026-08-01
+* github: <https://github.com/google-research/weatherbench2> ⭐ 632 | 🐛 85 | 🌐 Python | 📅 2026-08-01
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
@@ -376,9 +376,9 @@
 
 ## Awesome Large Weather Models
 
-* github: <https://github.com/jaychempan/Awesome-LWMs> ⭐ 374 | 🐛 1 | 📅 2025-06-23
+* github: <https://github.com/jaychempan/Awesome-LWMs> ⭐ 375 | 🐛 1 | 📅 2025-06-23
 * intro: A Collection of Awesome Large Weather Models (LWMs) | AI for Earth (AI4Earth) | AI for Science (AI4Science)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

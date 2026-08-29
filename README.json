@@ -15,8 +15,9 @@
             "last_commit": "2024-12-16T03:42:01Z",
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 195
-          }
+            "stars": 196
+          },
+          "first_seen": "2026-08-29T00:05:54.875Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-12-16T03:42:01Z",
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 195
-          }
+            "stars": 196
+          },
+          "first_seen": "2026-08-29T00:05:54.875Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2024-12-16T03:42:01Z",
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 195
-          }
+            "stars": 196
+          },
+          "first_seen": "2026-08-29T00:05:54.875Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2024-12-16T03:42:01Z",
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 195
-          }
+            "stars": 196
+          },
+          "first_seen": "2026-08-29T00:05:54.875Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2024-12-16T03:42:01Z",
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 195
-          }
+            "stars": 196
+          },
+          "first_seen": "2026-08-29T00:05:54.875Z"
         }
       ],
       "title": "Content"
@@ -98,8 +103,9 @@
                 "last_commit": "2022-09-12T23:36:35Z",
                 "owner": "sxjscience",
                 "repo": "HKO-7",
-                "stars": 429
-              }
+                "stars": 430
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model",
@@ -121,7 +127,8 @@
                 "owner": "hydrogo",
                 "repo": "rainymotion",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Optical flow models as an open benchmark for radar-based precipitation nowcasting (rainymotion v0.1)",
@@ -143,7 +150,8 @@
                 "owner": "pySTEPS",
                 "repo": "pysteps",
                 "stars": 579
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)",
@@ -165,7 +173,8 @@
                 "owner": "hydrogo",
                 "repo": "rainnet",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting",
@@ -187,7 +196,8 @@
                 "owner": "openclimatefix",
                 "repo": "metnet",
                 "stars": 305
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "MetNet: A Neural Weather Model for Precipitation Forecasting",
@@ -208,8 +218,9 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15170
-              }
+                "stars": 15172
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Skilful precipitation nowcasting using deep generative models of radar",
@@ -231,7 +242,8 @@
                 "owner": "jihoonko",
                 "repo": "DeepRaNE",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Effective Training Strategies for Deep-learning-based Precipitation Nowcasting and Estimation",
@@ -253,7 +265,8 @@
                 "owner": "amazon-science",
                 "repo": "earth-forecasting-transformer",
                 "stars": 467
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Earthformer: Exploring Space-Time Transformers for Earth System Forecasting",
@@ -274,8 +287,9 @@
                 "last_commit": "2023-09-30T17:02:35Z",
                 "owner": "microsoft",
                 "repo": "ClimaX",
-                "stars": 709
-              }
+                "stars": 708
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "ClimaX: A foundation model for weather and climate",
@@ -297,7 +311,8 @@
                 "owner": "MeteoSwiss",
                 "repo": "ldcast",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification",
@@ -318,8 +333,9 @@
                 "last_commit": "2026-08-11T12:29:00Z",
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7601
-              }
+                "stars": 7605
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Learning skillful medium-range global weather forecasting",
@@ -343,11 +359,12 @@
                 "archived": false,
                 "id": 6248645,
                 "language": "Python",
-                "last_commit": "2026-08-27T22:45:47Z",
+                "last_commit": "2026-08-28T20:38:36Z",
                 "owner": "ARM-DOE",
                 "repo": "pyart",
                 "stars": 600
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.",
@@ -369,7 +386,8 @@
                 "owner": "wradlib",
                 "repo": "wradlib",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "wradlib: An Open Source Library for Weather Radar Data Processing",
@@ -391,7 +409,8 @@
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1615
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.",
@@ -413,7 +432,8 @@
                 "owner": "openclimatefix-archives",
                 "repo": "satflow",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Satellite Optical Flow with machine learning models",
@@ -434,8 +454,9 @@
                 "last_commit": "2026-08-24T21:58:26Z",
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3400
-              }
+                "stars": 3403
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Python and JavaScript bindings for calling the Earth Engine API.",
@@ -457,7 +478,8 @@
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
                 "stars": 1137
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning",
@@ -485,7 +507,8 @@
                 "owner": "earthnet2021",
                 "repo": "earthnet-model-intercomparison-suite",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "EarthNet2021: A large-scale dataset and challenge for Earth surface forecasting as a guided video prediction task.",
@@ -507,7 +530,8 @@
                 "owner": "FrontierDevelopmentLab",
                 "repo": "PyRain",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "RainBench: Towards Global Precipitation Forecasting from Satellite Imagery",
@@ -529,7 +553,8 @@
                 "owner": "osilab-kaist",
                 "repo": "KoMet-Benchmark-Dataset",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "Benchmark Dataset for Precipitation Forecasting by Post-Processing the Numerical Weather Prediction.",
@@ -551,7 +576,8 @@
                 "owner": "yyyujintang",
                 "repo": "PostRainBench",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "POSTRAINBENCH: A COMPREHENSIVE BENCHMARK AND A NEW MODEL FOR PRECIPITATION FORECASTING",
@@ -572,8 +598,9 @@
                 "last_commit": "2026-08-01T21:36:12Z",
                 "owner": "google-research",
                 "repo": "weatherbench2",
-                "stars": 633
-              }
+                "stars": 632
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": "A benchmark for the next generation of data-driven global weather models",
@@ -601,7 +628,8 @@
                 "owner": "shengchaochen82",
                 "repo": "Awesome-Foundation-Models-for-Weather-and-Climate",
                 "stars": 298
-              }
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": null,
@@ -622,8 +650,9 @@
                 "last_commit": "2025-06-23T15:14:49Z",
                 "owner": "jaychempan",
                 "repo": "Awesome-LWMs",
-                "stars": 374
-              }
+                "stars": 375
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
             }
           ],
           "description": null,
@@ -635,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:35:32.391Z",
+    "last_updated": "2026-08-29T00:05:54.875Z",
     "original_repository_info": {
       "archived": false,
       "id": 491717347,
@@ -643,7 +672,7 @@
       "last_commit": "2024-12-16T03:42:01Z",
       "owner": "tyui592",
       "repo": "awesome-precipitation-nowcasting",
-      "stars": 195
+      "stars": 196
     },
     "original_repository_sha": "324a9b42c09f59053bcbb2b6a09f5f17b81aaa63",
     "enhanced_repository": "enhansome/enhansome-precipitation-nowcasting",
