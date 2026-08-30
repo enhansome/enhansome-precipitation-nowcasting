@@ -322,7 +322,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15174,
+                "stars": 15176,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -533,7 +533,7 @@
                 "open_issues": 11,
                 "owner": "wradlib",
                 "repo": "wradlib",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "hacktoberfest",
                   "hdfs",
@@ -638,7 +638,7 @@
                 "open_issues": 21,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3403,
+                "stars": 3404,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -666,7 +666,7 @@
                 "open_issues": 44,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1138,
+                "stars": 1139,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanism",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:49:57.667Z",
+    "last_updated": "2026-08-30T18:47:57.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
