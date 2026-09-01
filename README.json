@@ -322,7 +322,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15176,
+                "stars": 15178,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -462,7 +462,7 @@
                 "open_issues": 77,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7606,
+                "stars": 7608,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -634,11 +634,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T21:58:26Z",
+                "last_commit": "2026-08-31T23:40:32Z",
                 "open_issues": 21,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3406,
+                "stars": 3407,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -666,7 +666,7 @@
                 "open_issues": 44,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1141,
+                "stars": 1142,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanism",
@@ -824,7 +824,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-01T21:36:12Z",
-                "open_issues": 85,
+                "open_issues": 86,
                 "owner": "google-research",
                 "repo": "weatherbench2",
                 "stars": 633,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:04:22.326Z",
+    "last_updated": "2026-09-01T18:49:02.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
