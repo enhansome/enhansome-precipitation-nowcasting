@@ -91,7 +91,7 @@
 
 **MetNet: A Neural Weather Model for Precipitation Forecasting**
 
-* github: <https://github.com/openclimatefix/metnet> ⭐ 305 | 🐛 35 | 🌐 Python | 📅 2026-08-31
+* github: <https://github.com/openclimatefix/metnet> ⭐ 304 | 🐛 35 | 🌐 Python | 📅 2026-08-31
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
 
@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,178 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 296 | 🐛 26 | 🌐 Python | 📅 2026-08-31
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,180 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 296 | 🐛 26 | 🌐 Python | 📅 2026-08-31
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -117,7 +117,7 @@
 
 **Effective Training Strategies for Deep-learning-based Precipitation Nowcasting and Estimation**
 
-* github: <https://github.com/jihoonko/DeepRaNE> ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-02-04
+* github: <https://github.com/jihoonko/DeepRaNE> ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2022-02-04
 * intro: Computers & Geosciences (2022)
 * paper: <https://www.sciencedirect.com/science/article/pii/S009830042200036X>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,608 | 🐛 77 | 🌐 Python | 📅 2026-08-11
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,609 | 🐛 77 | 🌐 Python | 📅 2026-08-11
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -280,21 +280,21 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 601 | 🐛 49 | 🌐 Python | 📅 2026-08-28
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 601 | 🐛 48 | 🌐 Python | 📅 2026-08-28
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
 
 **wradlib: An Open Source Library for Weather Radar Data Processing**
 
-* github: <https://github.com/wradlib/wradlib> ⭐ 318 | 🐛 11 | 🌐 Python | 📅 2026-08-14
+* github: <https://github.com/wradlib/wradlib> ⭐ 318 | 🐛 7 | 🌐 Python | 📅 2026-09-02
 * doc: <https://docs.wradlib.org/en/stable/>
 
 ## Cartopy
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,616 | 🐛 327 | 🌐 Python | 📅 2026-08-27
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,616 | 🐛 327 | 🌐 Python | 📅 2026-09-02
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,14 +308,14 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,407 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-31
+* github: <https://github.com/google/earthengine-api> ⭐ 3,408 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-31
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
 
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,142 | 🐛 44 | 🌐 Python | 📅 2026-03-01
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,143 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 * doc: <https://openstl.readthedocs.io/en/latest/>
 
 # :minidisc: Dataset
@@ -371,7 +371,7 @@
 
 ## Awesome-Foundation-Models-for-Weather-and-Climate
 
-* github: <https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate> ⭐ 298 | 🐛 0 | 📅 2025-02-03
+* github: <https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate> ⭐ 299 | 🐛 0 | 📅 2025-02-03
 * intro: A Suvery about foundation models for weather and cliamte data understanding.
 
 ## Awesome Large Weather Models
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
