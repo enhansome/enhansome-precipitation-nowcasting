@@ -223,7 +223,7 @@
                 "open_issues": 76,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "advection",
                   "ensemble-prediction",
@@ -322,7 +322,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15180,
+                "stars": 15181,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -462,7 +462,7 @@
                 "open_issues": 77,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7609,
+                "stars": 7619,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -529,7 +529,7 @@
                 "id": 52089638,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T17:19:18Z",
+                "last_commit": "2026-09-03T10:04:37Z",
                 "open_issues": 7,
                 "owner": "wradlib",
                 "repo": "wradlib",
@@ -638,7 +638,7 @@
                 "open_issues": 21,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3408,
+                "stars": 3407,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:56:33.984Z",
+    "last_updated": "2026-09-03T18:51:40.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
