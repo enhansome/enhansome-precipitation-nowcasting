@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,630 | 🐛 77 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,635 | 🐛 77 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,617 | 🐛 326 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,618 | 🐛 326 | 🌐 Python | 📅 2026-09-04
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,412 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-05
+* github: <https://github.com/google/earthengine-api> ⭐ 3,413 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-05
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
