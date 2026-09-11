@@ -219,7 +219,7 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T14:22:31Z",
+                "last_commit": "2026-09-11T16:53:36Z",
                 "open_issues": 77,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
@@ -264,7 +264,7 @@
                 "open_issues": 6,
                 "owner": "hydrogo",
                 "repo": "rainnet",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -322,7 +322,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15192,
+                "stars": 15191,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -462,7 +462,7 @@
                 "open_issues": 78,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7656,
+                "stars": 7658,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -533,7 +533,7 @@
                 "open_issues": 7,
                 "owner": "wradlib",
                 "repo": "wradlib",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "hacktoberfest",
                   "hdfs",
@@ -568,8 +568,8 @@
                 "id": 5282596,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T03:25:01Z",
-                "open_issues": 326,
+                "last_commit": "2026-09-11T02:00:15Z",
+                "open_issues": 322,
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1618,
@@ -666,7 +666,7 @@
                 "open_issues": 44,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1144,
+                "stars": 1145,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanism",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:40:20.648Z",
+    "last_updated": "2026-09-11T18:44:17.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
