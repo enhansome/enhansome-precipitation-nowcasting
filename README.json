@@ -322,7 +322,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15198,
+                "stars": 15201,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -462,7 +462,7 @@
                 "open_issues": 79,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7667,
+                "stars": 7671,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -568,8 +568,8 @@
                 "id": 5282596,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-15T17:21:21Z",
-                "open_issues": 321,
+                "last_commit": "2026-09-16T07:42:02Z",
+                "open_issues": 318,
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1618,
@@ -634,11 +634,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T18:49:37Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-16T05:55:19Z",
+                "open_issues": 22,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3419,
+                "stars": 3420,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -666,7 +666,7 @@
                 "open_issues": 44,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1148,
+                "stars": 1149,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanism",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:11:17.581Z",
+    "last_updated": "2026-09-16T19:03:48.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
