@@ -322,7 +322,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15201,
+                "stars": 15202,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -496,7 +496,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-14T16:55:59Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
                 "stars": 601,
@@ -568,8 +568,8 @@
                 "id": 5282596,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-16T07:42:02Z",
-                "open_issues": 318,
+                "last_commit": "2026-09-17T02:40:12Z",
+                "open_issues": 314,
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1618,
@@ -634,11 +634,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T05:55:19Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-17T18:14:28Z",
+                "open_issues": 23,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3420,
+                "stars": 3421,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -827,7 +827,7 @@
                 "open_issues": 87,
                 "owner": "google-research",
                 "repo": "weatherbench2",
-                "stars": 635,
+                "stars": 636,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:03:48.526Z",
+    "last_updated": "2026-09-17T19:14:28.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
