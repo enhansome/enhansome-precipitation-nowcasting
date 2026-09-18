@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -75,7 +75,7 @@
             "open_issues": 2,
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -131,7 +131,7 @@
             "open_issues": 2,
             "owner": "tyui592",
             "repo": "awesome-precipitation-nowcasting",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -322,7 +322,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15202,
+                "stars": 15203,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -462,7 +462,7 @@
                 "open_issues": 79,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7671,
+                "stars": 7676,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -495,8 +495,8 @@
                 "id": 6248645,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T16:55:59Z",
-                "open_issues": 49,
+                "last_commit": "2026-09-17T22:03:08Z",
+                "open_issues": 48,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
                 "stars": 601,
@@ -572,7 +572,7 @@
                 "open_issues": 314,
                 "owner": "SciTools",
                 "repo": "cartopy",
-                "stars": 1618,
+                "stars": 1619,
                 "topics": [
                   "cartopy",
                   "geometry",
@@ -634,8 +634,8 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T18:14:28Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-18T01:03:48Z",
+                "open_issues": 24,
                 "owner": "google",
                 "repo": "earthengine-api",
                 "stars": 3421,
@@ -827,7 +827,7 @@
                 "open_issues": 87,
                 "owner": "google-research",
                 "repo": "weatherbench2",
-                "stars": 636,
+                "stars": 637,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:14:28.372Z",
+    "last_updated": "2026-09-18T18:37:39.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
@@ -949,7 +949,7 @@
       "open_issues": 2,
       "owner": "tyui592",
       "repo": "awesome-precipitation-nowcasting",
-      "stars": 196,
+      "stars": 197,
       "topics": [
         "awesome-list",
         "deep-learning",
