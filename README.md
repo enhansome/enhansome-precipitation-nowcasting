@@ -83,7 +83,7 @@
 
 **RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting**
 
-* github: <https://github.com/hydrogo/rainnet> ⭐ 153 | 🐛 6 | 🌐 Python | 📅 2021-06-01
+* github: <https://github.com/hydrogo/rainnet> ⭐ 154 | 🐛 6 | 🌐 Python | 📅 2021-06-01
 * intro: Geoscientific Model Development (2020)
 * paper: <https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020-discussion.html>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,676 | 🐛 79 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,682 | 🐛 79 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,619 | 🐛 314 | 🌐 Python | 📅 2026-09-17
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,619 | 🐛 315 | 🌐 Python | 📅 2026-09-17
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,14 +308,14 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,421 | 🐛 24 | 🌐 JavaScript | 📅 2026-09-18
+* github: <https://github.com/google/earthengine-api> ⭐ 3,423 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-18
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
 
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,149 | 🐛 44 | 🌐 Python | 📅 2026-03-01
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,150 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 * doc: <https://openstl.readthedocs.io/en/latest/>
 
 # :minidisc: Dataset
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
