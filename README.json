@@ -292,7 +292,7 @@
                 "open_issues": 35,
                 "owner": "openclimatefix",
                 "repo": "metnet",
-                "stars": 305,
+                "stars": 304,
                 "topics": [
                   "pytorch"
                 ]
@@ -406,7 +406,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "ClimaX",
-                "stars": 708,
+                "stars": 707,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -462,7 +462,7 @@
                 "open_issues": 79,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7682,
+                "stars": 7683,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -634,8 +634,8 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:43:33Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-20T01:11:02Z",
+                "open_issues": 22,
                 "owner": "google",
                 "repo": "earthengine-api",
                 "stars": 3423,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:12:11.851Z",
+    "last_updated": "2026-09-20T18:17:32.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",

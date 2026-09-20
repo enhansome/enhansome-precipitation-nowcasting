@@ -91,7 +91,7 @@
 
 **MetNet: A Neural Weather Model for Precipitation Forecasting**
 
-* github: <https://github.com/openclimatefix/metnet> ⭐ 305 | 🐛 35 | 🌐 Python | 📅 2026-09-14
+* github: <https://github.com/openclimatefix/metnet> ⭐ 304 | 🐛 35 | 🌐 Python | 📅 2026-09-14
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
 
@@ -154,7 +154,7 @@
 
 **ClimaX: A foundation model for weather and climate**
 
-* github: <https://github.com/microsoft/ClimaX> ⭐ 708 | 🐛 12 | 🌐 Python | 📅 2023-09-30
+* github: <https://github.com/microsoft/ClimaX> ⭐ 707 | 🐛 12 | 🌐 Python | 📅 2023-09-30
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2301.10343>
 * blog: <https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/>
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,682 | 🐛 79 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,683 | 🐛 79 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,423 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-18
+* github: <https://github.com/google/earthengine-api> ⭐ 3,423 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-20
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
