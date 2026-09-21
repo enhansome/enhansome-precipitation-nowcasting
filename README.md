@@ -91,7 +91,7 @@
 
 **MetNet: A Neural Weather Model for Precipitation Forecasting**
 
-* github: <https://github.com/openclimatefix/metnet> ⭐ 304 | 🐛 35 | 🌐 Python | 📅 2026-09-14
+* github: <https://github.com/openclimatefix/metnet> ⭐ 304 | 🐛 35 | 🌐 Python | 📅 2026-09-21
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
 
@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,203 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 297 | 🐛 26 | 🌐 Python | 📅 2026-09-14
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,202 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 297 | 🐛 26 | 🌐 Python | 📅 2026-09-21
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -132,7 +132,7 @@
 
 **Earthformer: Exploring Space-Time Transformers for Earth System Forecasting**
 
-* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 469 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
+* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 470 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
 * intro: NIPS (2022)
 * paper: <https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,683 | 🐛 79 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,685 | 🐛 79 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -280,7 +280,7 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 601 | 🐛 48 | 🌐 Python | 📅 2026-09-17
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 601 | 🐛 49 | 🌐 Python | 📅 2026-09-21
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,423 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-20
+* github: <https://github.com/google/earthengine-api> ⭐ 3,424 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-21
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
