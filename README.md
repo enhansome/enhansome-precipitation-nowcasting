@@ -60,7 +60,7 @@
 
 **Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
 
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 587 | 🐛 77 | 🌐 Python | 📅 2026-09-15
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 587 | 🐛 77 | 🌐 Python | 📅 2026-09-22
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
 
@@ -154,7 +154,7 @@
 
 **ClimaX: A foundation model for weather and climate**
 
-* github: <https://github.com/microsoft/ClimaX> ⭐ 707 | 🐛 12 | 🌐 Python | 📅 2023-09-30
+* github: <https://github.com/microsoft/ClimaX> ⭐ 706 | 🐛 12 | 🌐 Python | 📅 2023-09-30
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2301.10343>
 * blog: <https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/>
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,685 | 🐛 79 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,688 | 🐛 79 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -280,21 +280,21 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 601 | 🐛 49 | 🌐 Python | 📅 2026-09-21
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 603 | 🐛 49 | 🌐 Python | 📅 2026-09-21
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
 
 **wradlib: An Open Source Library for Weather Radar Data Processing**
 
-* github: <https://github.com/wradlib/wradlib> ⭐ 319 | 🐛 7 | 🌐 Python | 📅 2026-09-03
+* github: <https://github.com/wradlib/wradlib> ⭐ 320 | 🐛 7 | 🌐 Python | 📅 2026-09-03
 * doc: <https://docs.wradlib.org/en/stable/>
 
 ## Cartopy
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,619 | 🐛 315 | 🌐 Python | 📅 2026-09-17
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,619 | 🐛 316 | 🌐 Python | 📅 2026-09-17
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,424 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-21
+* github: <https://github.com/google/earthengine-api> ⭐ 3,426 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-22
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

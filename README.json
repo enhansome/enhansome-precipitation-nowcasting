@@ -219,7 +219,7 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-15T13:35:08Z",
+                "last_commit": "2026-09-22T13:34:25Z",
                 "open_issues": 77,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
@@ -406,7 +406,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "ClimaX",
-                "stars": 707,
+                "stars": 706,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -462,7 +462,7 @@
                 "open_issues": 79,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7685,
+                "stars": 7688,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -499,7 +499,7 @@
                 "open_issues": 49,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
-                "stars": 601,
+                "stars": 603,
                 "topics": [
                   "data-visualization",
                   "pyart",
@@ -533,7 +533,7 @@
                 "open_issues": 7,
                 "owner": "wradlib",
                 "repo": "wradlib",
-                "stars": 319,
+                "stars": 320,
                 "topics": [
                   "hacktoberfest",
                   "hdfs",
@@ -569,7 +569,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-17T02:40:12Z",
-                "open_issues": 315,
+                "open_issues": 316,
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1619,
@@ -634,11 +634,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T16:19:18Z",
+                "last_commit": "2026-09-22T18:27:51Z",
                 "open_issues": 23,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3424,
+                "stars": 3426,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:06:46.628Z",
+    "last_updated": "2026-09-22T19:07:21.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
