@@ -177,7 +177,7 @@
 
 **Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification**
 
-* github: <https://github.com/MeteoSwiss/ldcast> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2023-07-10
+* github: <https://github.com/MeteoSwiss/ldcast> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2023-07-10
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2304.12891>
 
@@ -280,7 +280,7 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 603 | 🐛 49 | 🌐 Python | 📅 2026-09-21
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 603 | 🐛 48 | 🌐 Python | 📅 2026-09-24
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,619 | 🐛 317 | 🌐 Python | 📅 2026-09-17
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,619 | 🐛 318 | 🌐 Python | 📅 2026-09-24
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,427 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-23
+* github: <https://github.com/google/earthengine-api> ⭐ 3,430 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-24
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
