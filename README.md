@@ -30,7 +30,7 @@
 
 **Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model**
 
-* github: <https://github.com/sxjscience/HKO-7> ⭐ 431 | 🐛 7 | 🌐 Python | 📅 2022-09-12
+* github: <https://github.com/sxjscience/HKO-7> ⭐ 432 | 🐛 7 | 🌐 Python | 📅 2022-09-12
 * intro: NIPS (2017)
 * paper: <https://arxiv.org/abs/1706.03458>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,693 | 🐛 79 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,691 | 🐛 79 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,433 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-25
+* github: <https://github.com/google/earthengine-api> ⭐ 3,432 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-26
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -357,7 +357,7 @@
 
 **A benchmark for the next generation of data-driven global weather models**
 
-* github: <https://github.com/google-research/weatherbench2> ⭐ 638 | 🐛 90 | 🌐 Python | 📅 2026-09-10
+* github: <https://github.com/google-research/weatherbench2> ⭐ 639 | 🐛 90 | 🌐 Python | 📅 2026-09-10
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

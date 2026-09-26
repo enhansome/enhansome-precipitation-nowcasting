@@ -167,7 +167,7 @@
                 "open_issues": 7,
                 "owner": "sxjscience",
                 "repo": "HKO-7",
-                "stars": 431,
+                "stars": 432,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -462,7 +462,7 @@
                 "open_issues": 79,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7693,
+                "stars": 7691,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -634,11 +634,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T18:29:27Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-26T01:15:27Z",
+                "open_issues": 19,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3433,
+                "stars": 3432,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -827,7 +827,7 @@
                 "open_issues": 90,
                 "owner": "google-research",
                 "repo": "weatherbench2",
-                "stars": 638,
+                "stars": 639,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:31:58.726Z",
+    "last_updated": "2026-09-26T18:42:35.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
