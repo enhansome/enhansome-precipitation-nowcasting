@@ -322,7 +322,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15209,
+                "stars": 15213,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -378,7 +378,7 @@
                 "open_issues": 17,
                 "owner": "amazon-science",
                 "repo": "earth-forecasting-transformer",
-                "stars": 470,
+                "stars": 471,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -459,7 +459,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T09:49:34Z",
-                "open_issues": 79,
+                "open_issues": 80,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
                 "stars": 7692,
@@ -634,11 +634,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T20:53:06Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-29T01:12:59Z",
+                "open_issues": 21,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3436,
+                "stars": 3440,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -666,7 +666,7 @@
                 "open_issues": 44,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1154,
+                "stars": 1155,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanism",
@@ -823,8 +823,8 @@
                 "id": 605966592,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T20:54:28Z",
-                "open_issues": 91,
+                "last_commit": "2026-09-29T09:14:55Z",
+                "open_issues": 90,
                 "owner": "google-research",
                 "repo": "weatherbench2",
                 "stars": 639,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:22:03.668Z",
+    "last_updated": "2026-09-29T20:12:19.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",

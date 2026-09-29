@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,209 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-09-28
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,213 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-09-28
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -132,7 +132,7 @@
 
 **Earthformer: Exploring Space-Time Transformers for Earth System Forecasting**
 
-* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 470 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
+* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 471 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
 * intro: NIPS (2022)
 * paper: <https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,692 | 🐛 79 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,692 | 🐛 80 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -308,14 +308,14 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,436 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-28
+* github: <https://github.com/google/earthengine-api> ⭐ 3,440 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-29
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
 
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,154 | 🐛 44 | 🌐 Python | 📅 2026-03-01
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,155 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 * doc: <https://openstl.readthedocs.io/en/latest/>
 
 # :minidisc: Dataset
@@ -357,7 +357,7 @@
 
 **A benchmark for the next generation of data-driven global weather models**
 
-* github: <https://github.com/google-research/weatherbench2> ⭐ 639 | 🐛 91 | 🌐 Python | 📅 2026-09-28
+* github: <https://github.com/google-research/weatherbench2> ⭐ 639 | 🐛 90 | 🌐 Python | 📅 2026-09-29
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
