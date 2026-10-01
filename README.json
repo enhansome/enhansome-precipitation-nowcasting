@@ -462,7 +462,7 @@
                 "open_issues": 80,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7692,
+                "stars": 7693,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -568,11 +568,11 @@
                 "id": 5282596,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-28T19:32:51Z",
-                "open_issues": 323,
+                "last_commit": "2026-10-01T19:37:41Z",
+                "open_issues": 324,
                 "owner": "SciTools",
                 "repo": "cartopy",
-                "stars": 1620,
+                "stars": 1621,
                 "topics": [
                   "cartopy",
                   "geometry",
@@ -634,11 +634,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T20:16:45Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-01T02:36:56Z",
+                "open_issues": 20,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3444,
+                "stars": 3445,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:17:20.472Z",
+    "last_updated": "2026-10-01T20:29:05.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
