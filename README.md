@@ -154,7 +154,7 @@
 
 **ClimaX: A foundation model for weather and climate**
 
-* github: <https://github.com/microsoft/ClimaX> ⭐ 706 | 🐛 12 | 🌐 Python | 📅 2023-09-30
+* github: <https://github.com/microsoft/ClimaX> ⭐ 705 | 🐛 12 | 🌐 Python | 📅 2023-09-30
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2301.10343>
 * blog: <https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/>
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,621 | 🐛 324 | 🌐 Python | 📅 2026-10-01
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,621 | 🐛 327 | 🌐 Python | 📅 2026-10-01
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,445 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-01
+* github: <https://github.com/google/earthengine-api> ⭐ 3,444 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-01
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -357,7 +357,7 @@
 
 **A benchmark for the next generation of data-driven global weather models**
 
-* github: <https://github.com/google-research/weatherbench2> ⭐ 639 | 🐛 90 | 🌐 Python | 📅 2026-09-29
+* github: <https://github.com/google-research/weatherbench2> ⭐ 638 | 🐛 90 | 🌐 Python | 📅 2026-09-29
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

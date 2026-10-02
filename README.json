@@ -406,7 +406,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "ClimaX",
-                "stars": 706,
+                "stars": 705,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -569,7 +569,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-01T19:37:41Z",
-                "open_issues": 324,
+                "open_issues": 327,
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1621,
@@ -608,7 +608,7 @@
                 "open_issues": 34,
                 "owner": "openclimatefix-archives",
                 "repo": "satflow",
-                "stars": 64,
+                "stars": 63,
                 "topics": [
                   "nowcasting"
                 ]
@@ -638,7 +638,7 @@
                 "open_issues": 20,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3445,
+                "stars": 3444,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -827,7 +827,7 @@
                 "open_issues": 90,
                 "owner": "google-research",
                 "repo": "weatherbench2",
-                "stars": 639,
+                "stars": 638,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:29:05.561Z",
+    "last_updated": "2026-10-02T20:07:18.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
