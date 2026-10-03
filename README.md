@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,212 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-09-28
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,211 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-09-28
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,693 | 🐛 80 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,692 | 🐛 80 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -287,14 +287,14 @@
 
 **wradlib: An Open Source Library for Weather Radar Data Processing**
 
-* github: <https://github.com/wradlib/wradlib> ⭐ 321 | 🐛 7 | 🌐 Python | 📅 2026-09-03
+* github: <https://github.com/wradlib/wradlib> ⭐ 321 | 🐛 9 | 🌐 Python | 📅 2026-09-03
 * doc: <https://docs.wradlib.org/en/stable/>
 
 ## Cartopy
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,621 | 🐛 327 | 🌐 Python | 📅 2026-10-01
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,621 | 🐛 329 | 🌐 Python | 📅 2026-10-01
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -357,7 +357,7 @@
 
 **A benchmark for the next generation of data-driven global weather models**
 
-* github: <https://github.com/google-research/weatherbench2> ⭐ 638 | 🐛 90 | 🌐 Python | 📅 2026-09-29
+* github: <https://github.com/google-research/weatherbench2> ⭐ 638 | 🐛 92 | 🌐 Python | 📅 2026-09-29
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
