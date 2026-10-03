@@ -2,11 +2,11 @@
 
 ### Content
 
-* [:paperclip: Papers\&Codes](https://github.com/tyui592/awesome-precipitation-nowcasting#paperclip-paperscodes) ⭐ 197 | 🐛 2 | 📅 2024-12-16
-* [:pushpin: Workshop](https://github.com/tyui592/awesome-precipitation-nowcasting#pushpin-workshop) ⭐ 197 | 🐛 2 | 📅 2024-12-16
-* [:computer: Library](https://github.com/tyui592/awesome-precipitation-nowcasting#computer-library) ⭐ 197 | 🐛 2 | 📅 2024-12-16
-* [:minidisc: Dataset](https://github.com/tyui592/awesome-precipitation-nowcasting#minidisc-dataset) ⭐ 197 | 🐛 2 | 📅 2024-12-16
-* [:earth\_asia: Others](https://github.com/tyui592/awesome-precipitation-nowcasting#earth_asia-Others) ⭐ 197 | 🐛 2 | 📅 2024-12-16
+* [:paperclip: Papers\&Codes](https://github.com/tyui592/awesome-precipitation-nowcasting#paperclip-paperscodes)
+* [:pushpin: Workshop](https://github.com/tyui592/awesome-precipitation-nowcasting#pushpin-workshop)
+* [:computer: Library](https://github.com/tyui592/awesome-precipitation-nowcasting#computer-library)
+* [:minidisc: Dataset](https://github.com/tyui592/awesome-precipitation-nowcasting#minidisc-dataset)
+* [:earth\_asia: Others](https://github.com/tyui592/awesome-precipitation-nowcasting#earth_asia-Others)
 
 *If I missed any of your work or if there's a need for an update in this review, please email me or just pull a request here. Thank you!*
 
@@ -154,7 +154,7 @@
 
 **ClimaX: A foundation model for weather and climate**
 
-* github: <https://github.com/microsoft/ClimaX> ⭐ 705 | 🐛 12 | 🌐 Python | 📅 2023-09-30
+* github: <https://github.com/microsoft/ClimaX> ⚠️ Archived
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2301.10343>
 * blog: <https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/>
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
