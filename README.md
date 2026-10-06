@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,213 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-05
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,214 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-05
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,695 | 🐛 81 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,696 | 🐛 81 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,621 | 🐛 324 | 🌐 Python | 📅 2026-10-05
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,621 | 🐛 323 | 🌐 Python | 📅 2026-10-05
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -357,7 +357,7 @@
 
 **A benchmark for the next generation of data-driven global weather models**
 
-* github: <https://github.com/google-research/weatherbench2> ⭐ 639 | 🐛 97 | 🌐 Python | 📅 2026-10-05
+* github: <https://github.com/google-research/weatherbench2> ⭐ 639 | 🐛 97 | 🌐 Python | 📅 2026-10-06
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

@@ -176,7 +176,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15213,
+                "stars": 15214,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -316,7 +316,7 @@
                 "open_issues": 81,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7695,
+                "stars": 7696,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -422,8 +422,8 @@
                 "id": 5282596,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-05T20:11:51Z",
-                "open_issues": 324,
+                "last_commit": "2026-10-05T22:22:51Z",
+                "open_issues": 323,
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1621,
@@ -488,7 +488,7 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T21:54:24Z",
+                "last_commit": "2026-10-05T22:36:27Z",
                 "open_issues": 22,
                 "owner": "google",
                 "repo": "earthengine-api",
@@ -677,7 +677,7 @@
                 "id": 605966592,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T12:35:55Z",
+                "last_commit": "2026-10-06T08:19:49Z",
                 "open_issues": 97,
                 "owner": "google-research",
                 "repo": "weatherbench2",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:10:14.075Z",
+    "last_updated": "2026-10-06T10:20:01.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
