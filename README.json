@@ -73,7 +73,7 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-22T13:34:25Z",
+                "last_commit": "2026-10-08T20:04:52Z",
                 "open_issues": 77,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
@@ -176,7 +176,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15218,
+                "stars": 15221,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -316,7 +316,7 @@
                 "open_issues": 81,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7697,
+                "stars": 7700,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -488,11 +488,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T00:06:33Z",
+                "last_commit": "2026-10-08T20:34:53Z",
                 "open_issues": 21,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3447,
+                "stars": 3451,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -520,7 +520,7 @@
                 "open_issues": 44,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1156,
+                "stars": 1157,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanism",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:46:10.753Z",
+    "last_updated": "2026-10-08T20:47:58.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
