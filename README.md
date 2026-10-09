@@ -60,7 +60,7 @@
 
 **Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
 
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 588 | 🐛 77 | 🌐 Python | 📅 2026-10-08
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 589 | 🐛 77 | 🌐 Python | 📅 2026-10-08
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
 
@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,221 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-05
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,227 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-05
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -132,7 +132,7 @@
 
 **Earthformer: Exploring Space-Time Transformers for Earth System Forecasting**
 
-* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 471 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
+* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 472 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
 * intro: NIPS (2022)
 * paper: <https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,700 | 🐛 81 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,703 | 🐛 81 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -280,7 +280,7 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 607 | 🐛 45 | 🌐 Python | 📅 2026-10-06
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 608 | 🐛 45 | 🌐 Python | 📅 2026-10-06
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -308,14 +308,14 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,451 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-08
+* github: <https://github.com/google/earthengine-api> ⭐ 3,451 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-09
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
 
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,157 | 🐛 44 | 🌐 Python | 📅 2026-03-01
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,158 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 * doc: <https://openstl.readthedocs.io/en/latest/>
 
 # :minidisc: Dataset
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

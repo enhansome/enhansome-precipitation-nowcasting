@@ -77,7 +77,7 @@
                 "open_issues": 77,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
-                "stars": 588,
+                "stars": 589,
                 "topics": [
                   "advection",
                   "ensemble-prediction",
@@ -176,7 +176,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15221,
+                "stars": 15227,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -232,7 +232,7 @@
                 "open_issues": 17,
                 "owner": "amazon-science",
                 "repo": "earth-forecasting-transformer",
-                "stars": 471,
+                "stars": 472,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -316,7 +316,7 @@
                 "open_issues": 81,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7700,
+                "stars": 7703,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -353,7 +353,7 @@
                 "open_issues": 45,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
-                "stars": 607,
+                "stars": 608,
                 "topics": [
                   "data-visualization",
                   "pyart",
@@ -488,8 +488,8 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T20:34:53Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-09T17:35:41Z",
+                "open_issues": 20,
                 "owner": "google",
                 "repo": "earthengine-api",
                 "stars": 3451,
@@ -520,7 +520,7 @@
                 "open_issues": 44,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1157,
+                "stars": 1158,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanism",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:47:58.254Z",
+    "last_updated": "2026-10-09T20:19:10.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
