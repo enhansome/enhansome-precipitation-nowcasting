@@ -77,7 +77,7 @@
                 "open_issues": 77,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
-                "stars": 590,
+                "stars": 591,
                 "topics": [
                   "advection",
                   "ensemble-prediction",
@@ -118,7 +118,7 @@
                 "open_issues": 6,
                 "owner": "hydrogo",
                 "repo": "rainnet",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -176,7 +176,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15228,
+                "stars": 15229,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -232,7 +232,7 @@
                 "open_issues": 17,
                 "owner": "amazon-science",
                 "repo": "earth-forecasting-transformer",
-                "stars": 472,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -492,7 +492,7 @@
                 "open_issues": 19,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3451,
+                "stars": 3452,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -520,7 +520,7 @@
                 "open_issues": 44,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1158,
+                "stars": 1159,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanism",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:30:13.380Z",
+    "last_updated": "2026-10-11T19:42:15.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",

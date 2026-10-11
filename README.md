@@ -60,7 +60,7 @@
 
 **Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
 
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 590 | 🐛 77 | 🌐 Python | 📅 2026-10-08
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 591 | 🐛 77 | 🌐 Python | 📅 2026-10-08
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
 
@@ -83,7 +83,7 @@
 
 **RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting**
 
-* github: <https://github.com/hydrogo/rainnet> ⭐ 154 | 🐛 6 | 🌐 Python | 📅 2021-06-01
+* github: <https://github.com/hydrogo/rainnet> ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2021-06-01
 * intro: Geoscientific Model Development (2020)
 * paper: <https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020-discussion.html>
 
@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,228 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-05
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,229 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-05
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -132,7 +132,7 @@
 
 **Earthformer: Exploring Space-Time Transformers for Earth System Forecasting**
 
-* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 472 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
+* github: <https://github.com/amazon-science/earth-forecasting-transformer> ⭐ 473 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
 * intro: NIPS (2022)
 * paper: <https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html>
 
@@ -308,14 +308,14 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,451 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-09
+* github: <https://github.com/google/earthengine-api> ⭐ 3,452 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-09
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
 
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,158 | 🐛 44 | 🌐 Python | 📅 2026-03-01
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,159 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 * doc: <https://openstl.readthedocs.io/en/latest/>
 
 # :minidisc: Dataset
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
