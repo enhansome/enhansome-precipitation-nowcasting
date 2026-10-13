@@ -77,7 +77,7 @@
                 "open_issues": 77,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
-                "stars": 591,
+                "stars": 592,
                 "topics": [
                   "advection",
                   "ensemble-prediction",
@@ -176,7 +176,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15231,
+                "stars": 15232,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -316,7 +316,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7705,
+                "stars": 7707,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -349,8 +349,8 @@
                 "id": 6248645,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T20:31:23Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-13T03:33:57Z",
+                "open_issues": 46,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
                 "stars": 609,
@@ -488,8 +488,8 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T18:52:51Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-13T19:05:06Z",
+                "open_issues": 20,
                 "owner": "google",
                 "repo": "earthengine-api",
                 "stars": 3452,
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:35:08.931Z",
+    "last_updated": "2026-10-13T20:48:26.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
