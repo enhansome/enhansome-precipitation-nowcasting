@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,236 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-12
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,239 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-12
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,715 | 🐛 83 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,717 | 🐛 83 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -280,7 +280,7 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 609 | 🐛 45 | 🌐 Python | 📅 2026-10-15
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 609 | 🐛 45 | 🌐 Python | 📅 2026-10-17
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
