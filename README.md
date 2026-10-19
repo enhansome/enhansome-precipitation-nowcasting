@@ -83,7 +83,7 @@
 
 **RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting**
 
-* github: <https://github.com/hydrogo/rainnet> ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2021-06-01
+* github: <https://github.com/hydrogo/rainnet> ⭐ 156 | 🐛 6 | 🌐 Python | 📅 2021-06-01
 * intro: Geoscientific Model Development (2020)
 * paper: <https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020-discussion.html>
 
@@ -91,7 +91,7 @@
 
 **MetNet: A Neural Weather Model for Precipitation Forecasting**
 
-* github: <https://github.com/openclimatefix/metnet> ⭐ 304 | 🐛 35 | 🌐 Python | 📅 2026-10-12
+* github: <https://github.com/openclimatefix/metnet> ⭐ 304 | 🐛 35 | 🌐 Python | 📅 2026-10-19
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
 
@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,239 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-12
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,240 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-19
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,717 | 🐛 83 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,718 | 🐛 82 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -280,7 +280,7 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 609 | 🐛 45 | 🌐 Python | 📅 2026-10-17
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 609 | 🐛 45 | 🌐 Python | 📅 2026-10-19
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,622 | 🐛 323 | 🌐 Python | 📅 2026-10-14
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,622 | 🐛 324 | 🌐 Python | 📅 2026-10-19
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,455 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-17
+* github: <https://github.com/google/earthengine-api> ⭐ 3,456 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-19
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -357,7 +357,7 @@
 
 **A benchmark for the next generation of data-driven global weather models**
 
-* github: <https://github.com/google-research/weatherbench2> ⭐ 639 | 🐛 98 | 🌐 Python | 📅 2026-10-15
+* github: <https://github.com/google-research/weatherbench2> ⭐ 641 | 🐛 99 | 🌐 Python | 📅 2026-10-19
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
