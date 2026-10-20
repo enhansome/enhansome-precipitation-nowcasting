@@ -176,7 +176,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15240,
+                "stars": 15241,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -349,8 +349,8 @@
                 "id": 6248645,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T09:40:22Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-20T17:50:33Z",
+                "open_issues": 42,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
                 "stars": 609,
@@ -423,10 +423,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-19T19:32:50Z",
-                "open_issues": 324,
+                "open_issues": 326,
                 "owner": "SciTools",
                 "repo": "cartopy",
-                "stars": 1622,
+                "stars": 1621,
                 "topics": [
                   "cartopy",
                   "geometry",
@@ -488,11 +488,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T16:59:08Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-20T19:27:10Z",
+                "open_issues": 21,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3456,
+                "stars": 3460,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -677,11 +677,11 @@
                 "id": 605966592,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T13:57:11Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-20T10:56:19Z",
+                "open_issues": 98,
                 "owner": "google-research",
                 "repo": "weatherbench2",
-                "stars": 641,
+                "stars": 642,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:42:09.458Z",
+    "last_updated": "2026-10-20T19:33:35.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",

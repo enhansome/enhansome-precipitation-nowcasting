@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,240 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-19
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,241 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 298 | 🐛 26 | 🌐 Python | 📅 2026-10-19
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -280,7 +280,7 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 609 | 🐛 45 | 🌐 Python | 📅 2026-10-19
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 609 | 🐛 42 | 🌐 Python | 📅 2026-10-20
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,622 | 🐛 324 | 🌐 Python | 📅 2026-10-19
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,621 | 🐛 326 | 🌐 Python | 📅 2026-10-19
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,456 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-19
+* github: <https://github.com/google/earthengine-api> ⭐ 3,460 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-20
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -357,7 +357,7 @@
 
 **A benchmark for the next generation of data-driven global weather models**
 
-* github: <https://github.com/google-research/weatherbench2> ⭐ 641 | 🐛 99 | 🌐 Python | 📅 2026-10-19
+* github: <https://github.com/google-research/weatherbench2> ⭐ 642 | 🐛 98 | 🌐 Python | 📅 2026-10-20
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
