@@ -349,7 +349,7 @@
                 "id": 6248645,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T18:39:44Z",
+                "last_commit": "2026-10-22T17:42:12Z",
                 "open_issues": 41,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
@@ -422,8 +422,8 @@
                 "id": 5282596,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-20T20:52:57Z",
-                "open_issues": 326,
+                "last_commit": "2026-10-22T00:05:32Z",
+                "open_issues": 324,
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1622,
@@ -488,11 +488,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T17:51:48Z",
+                "last_commit": "2026-10-22T19:25:31Z",
                 "open_issues": 22,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3462,
+                "stars": 3463,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:34:50.437Z",
+    "last_updated": "2026-10-22T19:27:19.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",

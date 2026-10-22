@@ -280,7 +280,7 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 609 | 🐛 41 | 🌐 Python | 📅 2026-10-21
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 609 | 🐛 41 | 🌐 Python | 📅 2026-10-22
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,622 | 🐛 326 | 🌐 Python | 📅 2026-10-20
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,622 | 🐛 324 | 🌐 Python | 📅 2026-10-22
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,462 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-21
+* github: <https://github.com/google/earthengine-api> ⭐ 3,463 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-22
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
