@@ -60,7 +60,7 @@
 
 **Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
 
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 593 | 🐛 79 | 🌐 Python | 📅 2026-10-08
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 593 | 🐛 81 | 🌐 Python | 📅 2026-10-08
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
 
@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,245 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 299 | 🐛 26 | 🌐 Python | 📅 2026-10-19
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,247 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 300 | 🐛 26 | 🌐 Python | 📅 2026-10-19
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -280,7 +280,7 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 609 | 🐛 41 | 🌐 Python | 📅 2026-10-22
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 609 | 🐛 40 | 🌐 Python | 📅 2026-10-24
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,622 | 🐛 326 | 🌐 Python | 📅 2026-10-22
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,622 | 🐛 325 | 🌐 Python | 📅 2026-10-22
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,462 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-23
+* github: <https://github.com/google/earthengine-api> ⭐ 3,462 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-23
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -357,7 +357,7 @@
 
 **A benchmark for the next generation of data-driven global weather models**
 
-* github: <https://github.com/google-research/weatherbench2> ⭐ 643 | 🐛 97 | 🌐 Python | 📅 2026-10-21
+* github: <https://github.com/google-research/weatherbench2> ⭐ 645 | 🐛 97 | 🌐 Python | 📅 2026-10-21
 * intro: arXiv (2023)
 * paper: <https://arxiv.org/abs/2308.15560>
 * doc: <https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html>
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
