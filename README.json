@@ -176,7 +176,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15247,
+                "stars": 15248,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -316,7 +316,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7719,
+                "stars": 7720,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -384,7 +384,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T10:04:37Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "wradlib",
                 "repo": "wradlib",
                 "stars": 323,
@@ -492,7 +492,7 @@
                 "open_issues": 19,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3462,
+                "stars": 3463,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -681,7 +681,7 @@
                 "open_issues": 97,
                 "owner": "google-research",
                 "repo": "weatherbench2",
-                "stars": 645,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:20:48.861Z",
+    "last_updated": "2026-10-25T18:32:32.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
