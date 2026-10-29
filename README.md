@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,254 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 300 | 🐛 26 | 🌐 Python | 📅 2026-10-26
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,256 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 300 | 🐛 26 | 🌐 Python | 📅 2026-10-26
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,725 | 🐛 82 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,726 | 🐛 82 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -280,21 +280,21 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 610 | 🐛 38 | 🌐 Python | 📅 2026-10-28
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 610 | 🐛 36 | 🌐 Python | 📅 2026-10-28
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
 
 **wradlib: An Open Source Library for Weather Radar Data Processing**
 
-* github: <https://github.com/wradlib/wradlib> ⭐ 323 | 🐛 7 | 🌐 Python | 📅 2026-10-28
+* github: <https://github.com/wradlib/wradlib> ⭐ 323 | 🐛 5 | 🌐 Python | 📅 2026-10-29
 * doc: <https://docs.wradlib.org/en/stable/>
 
 ## Cartopy
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,622 | 🐛 331 | 🌐 Python | 📅 2026-10-28
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,624 | 🐛 330 | 🌐 Python | 📅 2026-10-29
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,14 +308,14 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,464 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-28
+* github: <https://github.com/google/earthengine-api> ⭐ 3,465 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-28
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
 
 **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
 
-* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,161 | 🐛 44 | 🌐 Python | 📅 2026-03-01
+* github: <https://github.com/chengtan9907/OpenSTL> ⭐ 1,162 | 🐛 44 | 🌐 Python | 📅 2026-03-01
 * doc: <https://openstl.readthedocs.io/en/latest/>
 
 # :minidisc: Dataset
@@ -333,7 +333,7 @@
 
 **RainBench: Towards Global Precipitation Forecasting from Satellite Imagery**
 
-* github: <https://github.com/FrontierDevelopmentLab/PyRain> ⭐ 41 | 🐛 6 | 🌐 Python | 📅 2021-02-18
+* github: <https://github.com/FrontierDevelopmentLab/PyRain> ⭐ 42 | 🐛 6 | 🌐 Python | 📅 2021-02-18
 * intro: AAAI (2021)
 * paper: <https://ojs.aaai.org/index.php/AAAI/article/view/17749>
 
@@ -371,7 +371,7 @@
 
 ## Awesome-Foundation-Models-for-Weather-and-Climate
 
-* github: <https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate> ⭐ 299 | 🐛 0 | 📅 2025-02-03
+* github: <https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate> ⭐ 298 | 🐛 0 | 📅 2025-02-03
 * intro: A Suvery about foundation models for weather and cliamte data understanding.
 
 ## Awesome Large Weather Models
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
