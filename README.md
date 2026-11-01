@@ -60,7 +60,7 @@
 
 **Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
 
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 594 | 🐛 83 | 🌐 Python | 📅 2026-10-08
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 594 | 🐛 84 | 🌐 Python | 📅 2026-11-01
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
 
@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,261 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 300 | 🐛 26 | 🌐 Python | 📅 2026-10-26
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,263 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 300 | 🐛 26 | 🌐 Python | 📅 2026-10-26
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,726 | 🐛 82 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,728 | 🐛 82 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,625 | 🐛 329 | 🌐 Python | 📅 2026-10-30
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,625 | 🐛 330 | 🌐 Python | 📅 2026-11-01
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,470 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-30
+* github: <https://github.com/google/earthengine-api> ⭐ 3,472 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-30
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -376,9 +376,9 @@
 
 ## Awesome Large Weather Models
 
-* github: <https://github.com/jaychempan/Awesome-LWMs> ⭐ 378 | 🐛 1 | 📅 2025-06-23
+* github: <https://github.com/jaychempan/Awesome-LWMs> ⭐ 379 | 🐛 1 | 📅 2025-06-23
 * intro: A Collection of Awesome Large Weather Models (LWMs) | AI for Earth (AI4Earth) | AI for Science (AI4Science)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

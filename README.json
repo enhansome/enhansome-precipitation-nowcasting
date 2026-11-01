@@ -73,8 +73,8 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-08T20:04:52Z",
-                "open_issues": 83,
+                "last_commit": "2026-11-01T17:30:27Z",
+                "open_issues": 84,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
                 "stars": 594,
@@ -176,7 +176,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15261,
+                "stars": 15263,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -316,7 +316,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7726,
+                "stars": 7728,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -422,8 +422,8 @@
                 "id": 5282596,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-30T17:01:58Z",
-                "open_issues": 329,
+                "last_commit": "2026-11-01T19:36:51Z",
+                "open_issues": 330,
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1625,
@@ -492,7 +492,7 @@
                 "open_issues": 25,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3470,
+                "stars": 3472,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -764,7 +764,7 @@
                 "open_issues": 1,
                 "owner": "jaychempan",
                 "repo": "Awesome-LWMs",
-                "stars": 378,
+                "stars": 379,
                 "topics": [
                   "ai-for-earth",
                   "ai-for-science",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:31:17.965Z",
+    "last_updated": "2026-11-01T19:53:09.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
