@@ -73,11 +73,11 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-03T20:51:11Z",
-                "open_issues": 90,
+                "last_commit": "2026-11-04T21:14:39Z",
+                "open_issues": 88,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "advection",
                   "ensemble-prediction",
@@ -176,7 +176,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15269,
+                "stars": 15268,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -260,7 +260,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "ClimaX",
-                "stars": 703,
+                "stars": 704,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -422,8 +422,8 @@
                 "id": 5282596,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-03T19:34:14Z",
-                "open_issues": 331,
+                "last_commit": "2026-11-03T23:34:14Z",
+                "open_issues": 330,
                 "owner": "SciTools",
                 "repo": "cartopy",
                 "stars": 1625,
@@ -488,11 +488,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T00:12:48Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-04T20:15:36Z",
+                "open_issues": 22,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3476,
+                "stars": 3478,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -520,7 +520,7 @@
                 "open_issues": 44,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1162,
+                "stars": 1163,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanism",
@@ -678,7 +678,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T18:49:34Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "google-research",
                 "repo": "weatherbench2",
                 "stars": 648,
@@ -764,7 +764,7 @@
                 "open_issues": 1,
                 "owner": "jaychempan",
                 "repo": "Awesome-LWMs",
-                "stars": 379,
+                "stars": 380,
                 "topics": [
                   "ai-for-earth",
                   "ai-for-science",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:14:38.296Z",
+    "last_updated": "2026-11-04T21:28:25.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
