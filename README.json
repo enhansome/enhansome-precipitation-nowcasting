@@ -73,8 +73,8 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-05T21:09:08Z",
-                "open_issues": 85,
+                "last_commit": "2026-11-06T13:34:46Z",
+                "open_issues": 83,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
                 "stars": 595,
@@ -143,10 +143,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T18:06:43Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "openclimatefix",
                 "repo": "metnet",
-                "stars": 304,
+                "stars": 305,
                 "topics": [
                   "pytorch"
                 ]
@@ -176,7 +176,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15269,
+                "stars": 15271,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:33:12.711Z",
+    "last_updated": "2026-11-06T21:02:05.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
