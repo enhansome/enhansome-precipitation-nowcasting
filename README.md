@@ -60,7 +60,7 @@
 
 **Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
 
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 595 | 🐛 84 | 🌐 Python | 📅 2026-11-07
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 596 | 🐛 86 | 🌐 Python | 📅 2026-11-08
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
 
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,478 | 🐛 21 | 🌐 JavaScript | 📅 2026-11-06
+* github: <https://github.com/google/earthengine-api> ⭐ 3,479 | 🐛 21 | 🌐 JavaScript | 📅 2026-11-06
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

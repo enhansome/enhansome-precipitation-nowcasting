@@ -73,11 +73,11 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-07T17:27:46Z",
-                "open_issues": 84,
+                "last_commit": "2026-11-08T14:41:16Z",
+                "open_issues": 86,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
-                "stars": 595,
+                "stars": 596,
                 "topics": [
                   "advection",
                   "ensemble-prediction",
@@ -492,7 +492,7 @@
                 "open_issues": 21,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3478,
+                "stars": 3479,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:35:51.464Z",
+    "last_updated": "2026-11-08T19:56:20.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
