@@ -73,7 +73,7 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-12T15:31:06Z",
+                "last_commit": "2026-11-15T20:26:39Z",
                 "open_issues": 84,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
@@ -173,10 +173,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-17T13:51:27Z",
-                "open_issues": 358,
+                "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15274,
+                "stars": 15273,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -232,7 +232,7 @@
                 "open_issues": 17,
                 "owner": "amazon-science",
                 "repo": "earth-forecasting-transformer",
-                "stars": 475,
+                "stars": 476,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -316,7 +316,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7743,
+                "stars": 7745,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -492,7 +492,7 @@
                 "open_issues": 22,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3490,
+                "stars": 3492,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -715,7 +715,7 @@
                 "open_issues": 0,
                 "owner": "shengchaochen82",
                 "repo": "Awesome-Foundation-Models-for-Weather-and-Climate",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "ai4earth",
                   "ai4science",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:03:40.342Z",
+    "last_updated": "2026-11-15T20:32:44.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
