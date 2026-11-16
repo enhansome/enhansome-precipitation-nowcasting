@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "sxjscience",
                 "repo": "HKO-7",
-                "stars": 431,
+                "stars": 433,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -73,11 +73,11 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-15T20:26:39Z",
+                "last_commit": "2026-11-16T20:58:26Z",
                 "open_issues": 84,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
-                "stars": 597,
+                "stars": 598,
                 "topics": [
                   "advection",
                   "ensemble-prediction",
@@ -142,7 +142,7 @@
                 "id": 402393162,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T17:49:35Z",
+                "last_commit": "2026-11-16T17:50:24Z",
                 "open_issues": 36,
                 "owner": "openclimatefix",
                 "repo": "metnet",
@@ -173,10 +173,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-17T13:51:27Z",
-                "open_issues": 359,
+                "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15273,
+                "stars": 15277,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -260,7 +260,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "ClimaX",
-                "stars": 704,
+                "stars": 705,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -316,7 +316,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7745,
+                "stars": 7746,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -349,8 +349,8 @@
                 "id": 6248645,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T23:34:16Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-16T15:41:40Z",
+                "open_issues": 29,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
                 "stars": 611,
@@ -488,11 +488,11 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T04:59:21Z",
+                "last_commit": "2026-11-16T20:09:28Z",
                 "open_issues": 22,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3492,
+                "stars": 3495,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -677,7 +677,7 @@
                 "id": 605966592,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T16:33:27Z",
+                "last_commit": "2026-11-16T08:26:29Z",
                 "open_issues": 101,
                 "owner": "google-research",
                 "repo": "weatherbench2",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:32:44.071Z",
+    "last_updated": "2026-11-16T23:49:58.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
