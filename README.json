@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "sxjscience",
                 "repo": "HKO-7",
-                "stars": 433,
+                "stars": 432,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -73,11 +73,11 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T14:40:04Z",
+                "last_commit": "2026-11-19T14:39:43Z",
                 "open_issues": 81,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
-                "stars": 598,
+                "stars": 596,
                 "topics": [
                   "advection",
                   "ensemble-prediction",
@@ -176,7 +176,7 @@
                 "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15282,
+                "stars": 15281,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -316,7 +316,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7750,
+                "stars": 7752,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -353,7 +353,7 @@
                 "open_issues": 28,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
-                "stars": 611,
+                "stars": 610,
                 "topics": [
                   "data-visualization",
                   "pyart",
@@ -384,10 +384,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T21:16:02Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "wradlib",
                 "repo": "wradlib",
-                "stars": 324,
+                "stars": 323,
                 "topics": [
                   "hacktoberfest",
                   "hdfs",
@@ -488,7 +488,7 @@
                 "id": 34359697,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T21:34:28Z",
+                "last_commit": "2026-11-19T18:12:05Z",
                 "open_issues": 23,
                 "owner": "google",
                 "repo": "earthengine-api",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:41:16.521Z",
+    "last_updated": "2026-11-19T22:45:17.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
