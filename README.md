@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,281 | 🐛 360 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 301 | 🐛 25 | 🌐 Python | 📅 2026-11-16
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,283 | 🐛 360 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 301 | 🐛 25 | 🌐 Python | 📅 2026-11-16
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,752 | 🐛 82 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,753 | 🐛 82 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -287,14 +287,14 @@
 
 **wradlib: An Open Source Library for Weather Radar Data Processing**
 
-* github: <https://github.com/wradlib/wradlib> ⭐ 323 | 🐛 9 | 🌐 Python | 📅 2026-10-30
+* github: <https://github.com/wradlib/wradlib> ⭐ 323 | 🐛 8 | 🌐 Python | 📅 2026-10-30
 * doc: <https://docs.wradlib.org/en/stable/>
 
 ## Cartopy
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,628 | 🐛 331 | 🌐 Python | 📅 2026-11-10
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,629 | 🐛 331 | 🌐 Python | 📅 2026-11-10
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,498 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-19
+* github: <https://github.com/google/earthengine-api> ⭐ 3,500 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-19
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
