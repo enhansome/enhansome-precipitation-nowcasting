@@ -176,7 +176,7 @@
                 "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15289,
+                "stars": 15294,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -316,7 +316,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7753,
+                "stars": 7754,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -492,7 +492,7 @@
                 "open_issues": 22,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3501,
+                "stars": 3502,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:06:56.526Z",
+    "last_updated": "2026-11-22T21:14:15.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",

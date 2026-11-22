@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,289 | 🐛 360 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 301 | 🐛 25 | 🌐 Python | 📅 2026-11-16
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,294 | 🐛 360 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 301 | 🐛 25 | 🌐 Python | 📅 2026-11-16
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,753 | 🐛 82 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,754 | 🐛 82 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,501 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-20
+* github: <https://github.com/google/earthengine-api> ⭐ 3,502 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-20
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
