@@ -91,7 +91,7 @@
 
 **MetNet: A Neural Weather Model for Precipitation Forecasting**
 
-* github: <https://github.com/openclimatefix/metnet> ⭐ 305 | 🐛 35 | 🌐 Python | 📅 2026-11-18
+* github: <https://github.com/openclimatefix/metnet> ⭐ 305 | 🐛 36 | 🌐 Python | 📅 2026-11-23
 * intro: arXiv (2020)
 * paper: <https://arxiv.org/abs/2003.12140>
 
@@ -99,7 +99,7 @@
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,294 | 🐛 360 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 301 | 🐛 25 | 🌐 Python | 📅 2026-11-16
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,295 | 🐛 360 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 301 | 🐛 25 | 🌐 Python | 📅 2026-11-23
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -199,7 +199,7 @@
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,754 | 🐛 82 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,757 | 🐛 82 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -280,7 +280,7 @@
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 610 | 🐛 28 | 🌐 Python | 📅 2026-11-18
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 610 | 🐛 25 | 🌐 Python | 📅 2026-11-23
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -294,7 +294,7 @@
 
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 
-* github: <https://github.com/SciTools/cartopy> ⭐ 1,629 | 🐛 332 | 🌐 Python | 📅 2026-11-10
+* github: <https://github.com/SciTools/cartopy> ⭐ 1,629 | 🐛 333 | 🌐 Python | 📅 2026-11-23
 * doc: <https://scitools.org.uk/cartopy/docs/latest/>
 
 ## Satflow
@@ -308,7 +308,7 @@
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,502 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-20
+* github: <https://github.com/google/earthengine-api> ⭐ 3,502 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-23
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
