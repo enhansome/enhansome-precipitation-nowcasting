@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "sxjscience",
                 "repo": "HKO-7",
-                "stars": 432,
+                "stars": 433,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -73,8 +73,8 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-24T14:41:06Z",
-                "open_issues": 81,
+                "last_commit": "2026-11-25T17:19:32Z",
+                "open_issues": 80,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
                 "stars": 596,
@@ -176,7 +176,7 @@
                 "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15299,
+                "stars": 15301,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -302,6 +302,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "github: https://github.com/gaozhihan/PreDiff",
+              "description": "gaozhihan/PreDiff",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2023] Official implementation of \"PreDiff: Precipitation Nowcasting with Latent Diffusion Models\"",
+                "homepage": null,
+                "id": 695876457,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-10-17T03:04:13Z",
+                "open_issues": 26,
+                "owner": "gaozhihan",
+                "repo": "PreDiff",
+                "stars": 161,
+                "topics": []
+              },
+              "first_seen": "2026-11-25T23:46:17.770Z"
+            }
+          ],
+          "description": "PreDiff: Precipitation Nowcasting with Latent Diffusion Models",
+          "node_type": "group",
+          "title": "PreDiff"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "github: https://github.com/google-deepmind/graphcast",
               "description": "google-deepmind/weathernext",
               "children": [],
@@ -316,7 +344,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7757,
+                "stars": 7758,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -328,6 +356,181 @@
           "description": "Learning skillful medium-range global weather forecasting",
           "node_type": "group",
           "title": "GraphCast"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/DeminYu98/DiffCast",
+              "description": "DeminYu98/DiffCast",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2024] Official implementation of \"DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting\"",
+                "homepage": null,
+                "id": 776353217,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2025-09-18T04:45:09Z",
+                "open_issues": 15,
+                "owner": "DeminYu98",
+                "repo": "DiffCast",
+                "stars": 148,
+                "topics": []
+              },
+              "first_seen": "2026-11-25T23:46:17.770Z"
+            }
+          ],
+          "description": "DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting",
+          "node_type": "group",
+          "title": "DiffCast"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/Yager-42/CasCast",
+              "description": "Yager-42/CasCast",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 992377956,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-06-19T16:45:19Z",
+                "open_issues": 0,
+                "owner": "Yager-42",
+                "repo": "CasCast",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-25T23:46:17.770Z"
+            }
+          ],
+          "description": "CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling",
+          "node_type": "group",
+          "title": "CasCast"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/argenycw/FACL",
+              "description": "argenycw/FACL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 873995726,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-10-17T04:46:53Z",
+                "open_issues": 1,
+                "owner": "argenycw",
+                "repo": "FACL",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-11-25T23:46:17.770Z"
+            }
+          ],
+          "description": "Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting",
+          "node_type": "group",
+          "title": "FACL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/sqfoo/stldm_official",
+              "description": "sqfoo/stldm_official",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1109943679,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:17:37Z",
+                "open_issues": 1,
+                "owner": "sqfoo",
+                "repo": "stldm_official",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-11-25T23:46:17.770Z"
+            }
+          ],
+          "description": "STLDM: Spatio-Temporal Latent Diffusion Model for Precipitation Nowcasting",
+          "node_type": "group",
+          "title": "STLDM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/b-rbmp/FlowCast",
+              "description": "b-rbmp/FlowCast",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2026] Official Code of: \"FlowCast: Advancing Precipitation Nowcasting with Conditional Flow Matching\" ",
+                "homepage": null,
+                "id": 1163519050,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-03T20:29:10Z",
+                "open_issues": 0,
+                "owner": "b-rbmp",
+                "repo": "FlowCast",
+                "stars": 34,
+                "topics": [
+                  "conditional-flow-matching",
+                  "flow-matching",
+                  "generative-model",
+                  "generative-models",
+                  "nowcasting",
+                  "precipitation-nowcasting"
+                ]
+              },
+              "first_seen": "2026-11-25T23:46:17.770Z"
+            }
+          ],
+          "description": "FlowCast: Advancing Precipitation Nowcasting with Conditional Flow Matching",
+          "node_type": "group",
+          "title": "FlowCast"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/CompVis/weather-rf",
+              "description": "CompVis/weather-rf",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026] Probabilistic Precipitation Nowcasting with Rectified Flow Transformers",
+                "homepage": "https://compvis.github.io/weather-rf/",
+                "id": 1193907541,
+                "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
+                "last_commit": "2026-06-01T10:29:59Z",
+                "open_issues": 3,
+                "owner": "CompVis",
+                "repo": "weather-rf",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-11-25T23:46:17.770Z"
+            }
+          ],
+          "description": "Probabilistic Precipitation Nowcasting with Rectified Flow Transformers",
+          "node_type": "group",
+          "title": "FREUD"
         }
       ],
       "title": ":paperclip: Papers&Codes"
@@ -383,8 +586,8 @@
                 "id": 52089638,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T21:16:02Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-25T11:11:23Z",
+                "open_issues": 11,
                 "owner": "wradlib",
                 "repo": "wradlib",
                 "stars": 323,
@@ -423,10 +626,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-24T20:52:55Z",
-                "open_issues": 333,
+                "open_issues": 332,
                 "owner": "SciTools",
                 "repo": "cartopy",
-                "stars": 1630,
+                "stars": 1631,
                 "topics": [
                   "cartopy",
                   "geometry",
@@ -492,7 +695,7 @@
                 "open_issues": 22,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3502,
+                "stars": 3504,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -520,7 +723,7 @@
                 "open_issues": 46,
                 "owner": "chengtan9907",
                 "repo": "OpenSTL",
-                "stars": 1165,
+                "stars": 1166,
                 "topics": [
                   "artificial-intelligence",
                   "attention-mechanism",
@@ -544,6 +747,39 @@
           "description": "OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning",
           "node_type": "group",
           "title": "OpenSTL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/NVIDIA/earth2studio",
+              "description": "NVIDIA/earth2studio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source deep-learning framework for exploring, building and deploying AI weather/climate workflows.",
+                "homepage": "https://nvidia.github.io/earth2studio/",
+                "id": 782634112,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-24T23:22:36Z",
+                "open_issues": 62,
+                "owner": "NVIDIA",
+                "repo": "earth2studio",
+                "stars": 1256,
+                "topics": [
+                  "ai",
+                  "climate-science",
+                  "deep-learning",
+                  "weather"
+                ]
+              },
+              "first_seen": "2026-11-25T23:46:17.770Z"
+            }
+          ],
+          "description": "NVIDIA's Python toolkit for running AI weather models, including StormScope nowcasting.",
+          "node_type": "group",
+          "title": "Earth2Studio"
         }
       ],
       "title": ":computer: Library"
@@ -551,6 +787,62 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dataset and code: https://github.com/sxjscience/HKO-7",
+              "description": "sxjscience/HKO-7",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Source code of paper \"[NIPS2017] Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model\"",
+                "homepage": null,
+                "id": 109751606,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2022-09-12T23:36:35Z",
+                "open_issues": 7,
+                "owner": "sxjscience",
+                "repo": "HKO-7",
+                "stars": 433,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:05:54.875Z"
+            }
+          ],
+          "description": "Hong Kong Observatory radar echo benchmark introduced with TrajGRU.",
+          "node_type": "group",
+          "title": "HKO-7"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dataset and code: https://github.com/MIT-AI-Accelerator/neurips-2020-sevir",
+              "description": "MIT-AI-Accelerator/neurips-2020-sevir",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code and model benchmarks for \"SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology\"",
+                "homepage": null,
+                "id": 300109951,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2020-10-22T02:09:47Z",
+                "open_issues": 7,
+                "owner": "MIT-AI-Accelerator",
+                "repo": "neurips-2020-sevir",
+                "stars": 103,
+                "topics": []
+              },
+              "first_seen": "2026-11-25T23:46:17.770Z"
+            }
+          ],
+          "description": "A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology",
+          "node_type": "group",
+          "title": "SEVIR"
+        },
         {
           "children": [
             {
@@ -690,6 +982,34 @@
           "description": "A benchmark for the next generation of data-driven global weather models",
           "node_type": "group",
           "title": "WeatherBench 2"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dataset and code: https://github.com/yfangZhang/RainfallBench",
+              "description": "yfangZhang/RainfallBench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1009453187,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-03-31T07:11:41Z",
+                "open_issues": 0,
+                "owner": "yfangZhang",
+                "repo": "RainfallBench",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-25T23:46:17.770Z"
+            }
+          ],
+          "description": "How Effective Are Time-Series Models for Precipitation Nowcasting? A Comprehensive Benchmark for GNSS-Based Precipitation Nowcasting",
+          "node_type": "group",
+          "title": "RainfallBench"
         }
       ],
       "title": ":minidisc: Dataset"
@@ -791,7 +1111,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:05:42.061Z",
+    "last_updated": "2026-11-25T23:46:17.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
@@ -799,7 +1119,7 @@
       "id": 491717347,
       "language": null,
       "license": null,
-      "last_commit": "2024-12-16T03:42:01Z",
+      "last_commit": "2026-11-25T02:07:13Z",
       "open_issues": 2,
       "owner": "tyui592",
       "repo": "awesome-precipitation-nowcasting",
@@ -813,7 +1133,7 @@
         "weather-forecast"
       ]
     },
-    "original_repository_sha": "324a9b42c09f59053bcbb2b6a09f5f17b81aaa63",
+    "original_repository_sha": "04ca7dfe641fb20d90c6ce298fdd843a85e58b03",
     "enhanced_repository": "enhansome/enhansome-precipitation-nowcasting",
     "enhanced_repository_description": null,
     "title": "awesome-precipitation-nowcasting with stars"
