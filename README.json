@@ -73,7 +73,7 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-25T17:19:32Z",
+                "last_commit": "2026-11-26T22:09:17Z",
                 "open_issues": 80,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
@@ -146,7 +146,7 @@
                 "open_issues": 36,
                 "owner": "openclimatefix",
                 "repo": "metnet",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "pytorch"
                 ]
@@ -176,7 +176,7 @@
                 "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15301,
+                "stars": 15307,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -344,7 +344,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7758,
+                "stars": 7760,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -766,7 +766,7 @@
                 "open_issues": 62,
                 "owner": "NVIDIA",
                 "repo": "earth2studio",
-                "stars": 1256,
+                "stars": 1261,
                 "topics": [
                   "ai",
                   "climate-science",
@@ -973,7 +973,7 @@
                 "open_issues": 100,
                 "owner": "google-research",
                 "repo": "weatherbench2",
-                "stars": 650,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -1111,7 +1111,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:46:17.770Z",
+    "last_updated": "2026-11-26T23:58:55.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
