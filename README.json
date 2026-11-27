@@ -73,8 +73,8 @@
                 "id": 140263418,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-26T22:09:17Z",
-                "open_issues": 80,
+                "last_commit": "2026-11-27T17:25:44Z",
+                "open_issues": 79,
                 "owner": "pySTEPS",
                 "repo": "pysteps",
                 "stars": 596,
@@ -176,7 +176,7 @@
                 "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15307,
+                "stars": 15312,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -344,7 +344,7 @@
                 "open_issues": 82,
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7760,
+                "stars": 7762,
                 "topics": [
                   "weather",
                   "weather-forecast"
@@ -556,7 +556,7 @@
                 "open_issues": 25,
                 "owner": "ARM-DOE",
                 "repo": "pyart",
-                "stars": 610,
+                "stars": 611,
                 "topics": [
                   "data-visualization",
                   "pyart",
@@ -695,7 +695,7 @@
                 "open_issues": 22,
                 "owner": "google",
                 "repo": "earthengine-api",
-                "stars": 3504,
+                "stars": 3505,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:54.875Z"
@@ -763,10 +763,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-24T23:22:36Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "NVIDIA",
                 "repo": "earth2studio",
-                "stars": 1261,
+                "stars": 1264,
                 "topics": [
                   "ai",
                   "climate-science",
@@ -1111,7 +1111,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:58:55.740Z",
+    "last_updated": "2026-11-27T23:43:27.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Precipitation Nowcasting papers and related resources.",
@@ -1123,7 +1123,7 @@
       "open_issues": 2,
       "owner": "tyui592",
       "repo": "awesome-precipitation-nowcasting",
-      "stars": 198,
+      "stars": 199,
       "topics": [
         "awesome-list",
         "deep-learning",

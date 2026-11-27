@@ -62,7 +62,7 @@ A curated list of papers, code, competitions, and datasets for precipitation now
 
 **Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
 
-* github: <https://github.com/pySTEPS/pysteps> ⭐ 596 | 🐛 80 | 🌐 Python | 📅 2026-11-26
+* github: <https://github.com/pySTEPS/pysteps> ⭐ 596 | 🐛 79 | 🌐 Python | 📅 2026-11-27
 * intro: Geoscientific Model Development (2019)
 * paper: <https://gmd.copernicus.org/articles/12/4185/2019/>
 
@@ -101,7 +101,7 @@ A curated list of papers, code, competitions, and datasets for precipitation now
 
 **Skilful precipitation nowcasting using deep generative models of radar**
 
-* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,307 | 🐛 360 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 301 | 🐛 25 | 🌐 Python | 📅 2026-11-23
+* github: <https://github.com/deepmind/deepmind-research/tree/master/nowcasting> ⭐ 15,312 | 🐛 360 | 🌐 Jupyter Notebook | 📅 2026-06-17, <https://github.com/openclimatefix/skillful_nowcasting> ⭐ 301 | 🐛 25 | 🌐 Python | 📅 2026-11-23
 * intro: Nature (2021)
 * paper: <https://www.nature.com/articles/s41586-021-03854-z>
 
@@ -211,7 +211,7 @@ A curated list of papers, code, competitions, and datasets for precipitation now
 
 **Learning skillful medium-range global weather forecasting**
 
-* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,760 | 🐛 82 | 🌐 Python | 📅 2026-09-04
+* github: <https://github.com/google-deepmind/graphcast> ⭐ 7,762 | 🐛 82 | 🌐 Python | 📅 2026-09-04
 * intro: Science (2023)
 * paper: <https://www.science.org/doi/10.1126/science.adi2336>
 
@@ -364,7 +364,7 @@ A curated list of papers, code, competitions, and datasets for precipitation now
 
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
 
-* github: <https://github.com/ARM-DOE/pyart> ⭐ 610 | 🐛 25 | 🌐 Python | 📅 2026-11-23
+* github: <https://github.com/ARM-DOE/pyart> ⭐ 611 | 🐛 25 | 🌐 Python | 📅 2026-11-23
 * doc: <https://arm-doe.github.io/pyart/>
 
 ## wradlib
@@ -392,7 +392,7 @@ A curated list of papers, code, competitions, and datasets for precipitation now
 
 **Python and JavaScript bindings for calling the Earth Engine API.**
 
-* github: <https://github.com/google/earthengine-api> ⭐ 3,504 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-24
+* github: <https://github.com/google/earthengine-api> ⭐ 3,505 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-24
 * doc: <https://earthengine.google.com/>
 
 ## OpenSTL
@@ -406,7 +406,7 @@ A curated list of papers, code, competitions, and datasets for precipitation now
 
 **NVIDIA's Python toolkit for running AI weather models, including StormScope nowcasting.**
 
-* github: <https://github.com/NVIDIA/earth2studio> ⭐ 1,261 | 🐛 62 | 🌐 Python | 📅 2026-11-24
+* github: <https://github.com/NVIDIA/earth2studio> ⭐ 1,264 | 🐛 63 | 🌐 Python | 📅 2026-11-24
 * doc: <https://nvidia.github.io/earth2studio/main/>
 
 # :minidisc: Dataset
@@ -514,4 +514,4 @@ A curated list of papers, code, competitions, and datasets for precipitation now
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
